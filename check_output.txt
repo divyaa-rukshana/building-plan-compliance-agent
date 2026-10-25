@@ -1,0 +1,32 @@
+PART A: passages on the cited pages
+
+  OK   bbmp_bylaws_2003.pdf           p.7    Definition of road width
+  OK   bbmp_bylaws_2003.pdf           p.21   9.2 points to Tables 4, 5, 6
+  OK   bbmp_bylaws_2003.pdf           p.22   Table 4 setbacks up to 9.5 m
+  OK   bbmp_bylaws_2003.pdf           p.23   Table 5 setbacks above 9.5 m
+  OK   bbmp_bylaws_2003.pdf           p.24   Table 6 coverage and FAR, road width in last column
+  OK   bbmp_bylaws_2003.pdf           p.25   Note 3: which dimension sets which setback; higher of Tables 4 and 5
+  OK   bbmp_bylaws_2003.pdf           p.26   High-rise needs site >= 21 m and road >= 12 m
+  OK   bbmp_bylaws_2003.pdf           p.27   A/B/C areas come from a BDA map
+  OK   bbmp_bylaws_2003.pdf           p.28   Road narrower than the row: FAR of the road row applies
+  OK   bbmp_bylaws_2003.pdf           p.29   Wider road: plot-area limit. Setbacks and coverage ignore road width
+  OK   bbmp_bylaws_2003.pdf           p.33   Height is governed by FAR, coverage, setbacks, street width (no number)
+  OK   bbmp_bylaws_2003.pdf           p.5    High-rise = ground + 4 or more floors
+  OK   bda_zoning_regs_rmp2015.pdf    p.27   RMP 4.1.2(ii)(b): road < 9 m caps height at 11.5 m or Stilt+GF+2
+  OK   bda_zoning_regs_rmp2015.pdf    p.19   RMP Table 8 setbacks as % of depth/width
+  OK   bda_zoning_regs_rmp2015.pdf    p.20   RMP Table 9 setbacks above 11.5 m; 3.2 road width
+
+  NOTE amendments PDF text layer = 0 chars  -> scanned, OCR needed before indexing
+
+PART B: worked examples computed from the tables
+
+  OK   EX1: {'area': 'A', 'width': 9, 'depth': 12, 'road': 6, 'height': 7.5}
+        -> {'plot_area': 108, 'setbacks': {'front': 1.5, 'rear': 1.5, 'left': 1.0, 'right': 1.0}, 'coverage_pct': 65, 'far': 0.75, 'max_floor_area': 81.0, 'far_plot_row': 0.75, 'far_road_row': 0.75, 'high_rise_issue': None, 'rmp_height_cap_m': 11.5, 'exceeds_rmp_height_cap': False}
+  OK   EX2: {'area': 'A', 'width': 20, 'depth': 30, 'road': 6, 'height': 7.5}
+        -> {'plot_area': 600, 'setbacks': {'front': 5.0, 'rear': 3.5, 'left': 2.5, 'right': 3.5}, 'coverage_pct': 60, 'far': 0.75, 'max_floor_area': 450.0, 'far_plot_row': 1.0, 'far_road_row': 0.75, 'high_rise_issue': None, 'rmp_height_cap_m': 11.5, 'exceeds_rmp_height_cap': False}
+  OK   EX3_height_over_9.5: {'area': 'A', 'width': 9, 'depth': 12, 'road': 6, 'height': 13.0, 'storeys': 4}
+        -> {'plot_area': 108, 'setbacks': {'front': 5.0, 'rear': 5.0, 'left': 5.0, 'right': 5.0}, 'coverage_pct': 65, 'far': 0.75, 'max_floor_area': 81.0, 'far_plot_row': 0.75, 'far_road_row': 0.75, 'high_rise_issue': None, 'rmp_height_cap_m': 11.5, 'exceeds_rmp_height_cap': True}
+  OK   EX4_G+4_on_narrow_road: {'area': 'A', 'width': 20, 'depth': 30, 'road': 6, 'height': 16.0, 'storeys': 5}
+        -> {'plot_area': 600, 'setbacks': {'front': 6.0, 'rear': 6.0, 'left': 6.0, 'right': 6.0}, 'coverage_pct': 60, 'far': 0.75, 'max_floor_area': 450.0, 'far_plot_row': 1.0, 'far_road_row': 0.75, 'high_rise_issue': ['road < 12 m (9.3.3)', 'site dimension < 21 m (9.3.2)'], 'rmp_height_cap_m': 11.5, 'exceeds_rmp_height_cap': True}
+
+RESULT: ALL CHECKS PASSED
