@@ -1,4 +1,4 @@
-"""Evaluation 1 check for the section 4.1 case (Member 2).
+"""Evaluation 1 (Member 2).
 
 Run from the repo root with the three PDFs in ./corpus :
     pip install pypdf
