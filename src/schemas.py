@@ -46,3 +46,27 @@ class ComplianceResultResponse(BaseModel):
     correlation_id: str
     status: str
     metrics: dict = {}
+
+class RoutingDecision(str, Enum):
+    CLEAR = "clear-for-submission"
+    REVISE = "revise-and-recheck"
+    ESCALATE = "specialist-review"
+
+class ClauseCitation(BaseModel):
+    clause_id: str = Field(..., description="Exact clause name or table reference number")
+    page: int = Field(..., description="Printed footer page number in document")
+    extracted_text: str = Field(..., description="Verbatim matching text snippet from corpus")
+
+class ProvisionFinding(BaseModel):
+    provision_name: str = Field(..., description="e.g., Setback, FAR, Coverage, Height")
+    is_compliant: bool
+    observed_value: str
+    required_limit: str
+    finding_details: str
+    citations: List[ClauseCitation] = []
+
+class ComplianceResponse(BaseModel):
+    proposal_id: str
+    routing: RoutingDecision
+    primary_reason: str
+    findings: List[ProvisionFinding] = Field(default_factory=list)
