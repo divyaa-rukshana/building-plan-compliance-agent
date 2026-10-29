@@ -103,6 +103,30 @@ Go to the interactive Swagger UI at: <http://localhost:8000/docs>
 docker compose down
 ```
 
+## Clean-State Teardown and Reset
+
+Use this to stop all services and remove old containers and volumes, so the next run starts from a clean state (for example before a fresh dry run or demo).
+
+### Stop only (keep your data)
+
+```bash
+docker compose down
+```
+
+### Full reset (remove containers, networks and volumes)
+
+```bash
+docker compose down -v
+```
+
+> **Warning:** `-v` deletes the named volumes. Anything stored there, such as the Chroma vector index or Redis data, is lost and must be rebuilt on the next start.
+
+### Start again from scratch
+
+```bash
+docker compose up --build
+```
+
 ## Testing and Evaluation
 
 - **Submit a proposal:** use the `POST /proposals` endpoint in the Swagger UI with the section 4.1 test cases.
