@@ -3,3 +3,9 @@ uvicorn==0.27.1
 pydantic==2.6.3
 redis==5.0.1
 rq==1.16.1
+
+
+chromadb==0.5.23
+sentence-transformers==3.3.1
+pypdf==5.1.0
+langgraph==0.2.60
