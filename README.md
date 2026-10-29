@@ -26,7 +26,7 @@ A production multi-agent service that accepts a building proposal description, v
 To spin up the entire containerized service locally (API, Redis queue, agent worker, and stub LLM):
 
 - **Clone & Navigate:** Clone the repository and navigate to the root folder:
-  `git clone `  
+  `git clone https://github.com/divyaa-rukshana/building-plan-compliance-agent`  
   `cd building-plan-compliance-agent`
 
 - **Build & Run:** Build and run the containers using Docker Compose:
