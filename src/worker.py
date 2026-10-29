@@ -1,16 +1,18 @@
 import time
 from typing import Dict, Any, TypedDict, List, Optional
-from rq import Worker, Queue, Connection
+from rq import Worker, Queue
 from redis import Redis
 from langgraph.graph import StateGraph, END
 
 from src.schemas import BuildingProposalRequest, ComplianceResponse, ProvisionFinding, RoutingDecision, ClauseCitation
+from src.retrieval import search_corpus as retrieve_from_index
+
 
 redis_conn = Redis(host='redis', port=6379)
 
 def search_corpus(query: str, k: int = 3) -> List[Dict[str, Any]]:
-    """Placeholder tool signature for Member 3's vector index search."""
-    return []
+    """Search the indexed building-regulation PDFs."""
+    return retrieve_from_index(query, k=k)
 
 def get_clause(clause_id: str) -> Dict[str, Any]:
     """Placeholder tool signature for Member 3's explicit clause database lookup."""
@@ -171,7 +173,9 @@ def run_agent_pipeline(proposal_dict: dict):
         "execution_trace": final_output.get("reasoning_history", [])
     }
 
-if __name__ == '__main__':
-    with Connection(redis_conn):
-        worker = Worker(map(Queue, ['agent_queue']))
-        worker.work()
+if __name__ == "__main__":
+    worker = Worker(
+        [Queue("agent_queue", connection=redis_conn)],
+        connection=redis_conn,
+    )
+    worker.work()
