@@ -1,40 +1,90 @@
-# Building Plan Compliance Pre-Check Service (Mini Project 05)
+# Building Plan Compliance Pre-Check Service
 
-**Course:** UE24AM342AA5 – ML System Design & AgentOps  
-**Domain:** Urban Development and Construction (BBMP / BDA Jurisdiction)
+**Mini Project 05 · UE24AM342AA5 – ML System Design & AgentOps**
+Domain: Urban Development and Construction (BBMP / BDA jurisdiction)
 
-**Team Members:**
-1. A U Divyaa Rukshana (PES2UG24AM002)
-2. Amrithaa D J (PES2UG24AM017)
-3. Pragya Chowdary S (PES2UG24AM115)
+## Team
 
-## 1. Overview
-A production multi-agent service that accepts a building proposal description, validates it at the ingestion boundary, retrieves binding municipal bye-law provisions (including road-width and height modifiers stated separately from setback tables), verifies every claim against retrieved clauses, and routes the proposal (`clear-for-submission`, `revise-and-recheck`, or `specialist-review`) with clause-level citations.
+| # | Name | SRN |
+|---|------|-----|
+| 1 | A U Divyaa Rukshana | PES2UG24AM002 |
+| 2 | Amrithaa D J | PES2UG24AM017 |
+| 3 | Pragya Chowdary S | PES2UG24AM115 |
 
-## 2. Repository Structure
-- `corpus/` – Public municipal regulations (`bbmp_bylaws_2003.pdf`, `bda_zoning_regs_rmp2015.pdf`, `bda_zoning_amendments_feb2015.pdf`)
-- `docs/` – System architecture diagram, Evaluation 1 deliverable, and data contracts
+## Overview
 
-## 3. Architecture Summary
-- **Ingestion & API:** FastAPI, Pydantic (Validation & Quarantine)
-- **Agents & Orchestration:** LangGraph (Researcher + Auditor), Redis (Queue, Cache, Rate Limiting)
-- **Indexing & Retrieval:** LangChain, Chroma, `all-MiniLM-L6-v2` (Local Embeddings)
-- **Observability:** OpenTelemetry, Jaeger, Prometheus, Grafana
-- **Deployment & Testing:** Docker Compose, Locust, Stub LLM Service
+A production multi-agent service that pre-checks a building proposal against municipal bye-laws before it goes for sanction. It:
 
-## 4. Quickstart & Execution
-To spin up the entire containerized service locally (API, Redis queue, agent worker, and stub LLM):
+1. Accepts a building proposal and validates it at the ingestion boundary.
+2. Retrieves every binding provision, including road-width and height limits that are stated separately from the setback tables.
+3. Verifies each claim against the retrieved clauses.
+4. Routes the proposal to one of `clear-for-submission`, `revise-and-recheck` or `specialist-review`, with clause-level citations.
 
-- **Clone & Navigate:** Clone the repository and navigate to the root folder:
-  `git clone https://github.com/divyaa-rukshana/building-plan-compliance-agent`  
-  `cd building-plan-compliance-agent`
+> The system never certifies a plan as compliant. It produces a finding with supporting evidence, and a licensed architect or engineer makes the decision.
 
-- **Build & Run:** Build and run the containers using Docker Compose:
-  `docker compose up --build`
+## Repository Structure
 
-- **Access Documentation:** Open your browser and navigate to the interactive Swagger UI[cite: 2]:  
-  `http://localhost:8000/docs`[cite: 2]
+```text
+.
+├── corpus/   # Public regulations used as the knowledge base
+│   ├── bbmp_bylaws_2003.pdf
+│   ├── bda_zoning_regs_rmp2015.pdf
+│   └── bda_zoning_amendments_feb2015.pdf
+├── docs/     # Architecture diagram, Evaluation 1 deliverable, data contracts
+└── README.md
+```
 
-## 5. Testing & Evaluation
-- **API Endpoints:** Submit test proposals via the `POST /proposals` endpoint using Section 4.1 test cases.
-- **Worker Logs:** Monitor the terminal output to watch the LangGraph agent execute ingestion, auditing, and self-verification loops against the ChromaDB vector corpus.
+## Architecture
+
+| Layer | Technologies | Role |
+|-------|--------------|------|
+| Ingestion and API | FastAPI, Pydantic | Validation and quarantine of requests |
+| Agents and orchestration | LangGraph (Researcher + Auditor), Redis | Reasoning loop, job queue, cache, rate limiting |
+| Indexing and retrieval | LangChain, Chroma, `all-MiniLM-L6-v2` | Chunking and local embeddings of the corpus |
+| Observability | OpenTelemetry, Jaeger, Prometheus, Grafana | Traces, metrics, dashboards |
+| Deployment and testing | Docker Compose, Locust, stub LLM service | Containers and load testing |
+
+## Getting Started
+
+### Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/) with Docker Compose
+- Git
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/divyaa-rukshana/building-plan-compliance-agent
+cd building-plan-compliance-agent
+```
+
+### 2. Configure the environment
+
+```bash
+cp .env.example .env
+```
+
+Fill in the values in `.env`. No keys or model names are stored in the repository.
+
+### 3. Build and start the services
+
+```bash
+docker compose up --build
+```
+
+This starts the API, the Redis queue, the agent worker and the stub LLM service.
+
+### 4. Open the API documentation
+
+Go to the interactive Swagger UI at: <http://localhost:8000/docs>
+
+### 5. Stop the services
+
+```bash
+docker compose down
+```
+
+## Testing and Evaluation
+
+- **Submit a proposal:** use the `POST /proposals` endpoint in the Swagger UI with the section 4.1 test cases.
+- **Watch the agent run:** follow the worker logs in the terminal to see the LangGraph agent perform ingestion, auditing and self-verification against the Chroma vector corpus.
