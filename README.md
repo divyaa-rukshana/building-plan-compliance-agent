@@ -40,7 +40,7 @@ A production multi-agent service that pre-checks a building proposal against mun
 │   ├── indexing.py                      # Builds the vector index
 │   ├── retrieval.py                     # Corpus search
 │   ├── stub_llm.py                      # Fake LLM service for tests
-│   └──telemetry.py                     # Tracing and metrics
+│   └──telemetry.py                      # Tracing and metrics
 ├── test_example/                        # Section 4.1 reference case
 │   ├── agent_design.md
 │   ├── passages_41.md
