@@ -5,8 +5,11 @@ from redis import Redis
 from langgraph.graph import StateGraph, END
 
 from src.schemas import BuildingProposalRequest, ComplianceResponse, ProvisionFinding, RoutingDecision, ClauseCitation
-from src.retrieval import search_corpus as retrieve_from_index
 
+from src.retrieval import (
+    search_corpus as retrieve_from_index,
+    get_clause as lookup_clause,
+)
 
 redis_conn = Redis(host='redis', port=6379)
 
@@ -15,8 +18,9 @@ def search_corpus(query: str, k: int = 3) -> List[Dict[str, Any]]:
     return retrieve_from_index(query, k=k)
 
 def get_clause(clause_id: str) -> Dict[str, Any]:
-    """Placeholder tool signature for Member 3's explicit clause database lookup."""
-    return {}
+    """Look up a clause in the indexed regulation corpus."""
+    result = lookup_clause(clause_id)
+    return result if result is not None else {}
 
 class AgentState(TypedDict):
     payload: BuildingProposalRequest

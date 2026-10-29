@@ -1,0 +1,23 @@
+
+[
+  {"id": 1, "query": "What are the building setback requirements?"},
+  {"id": 2, "query": "What road width requirements apply to building plans?"},
+  {"id": 3, "query": "What are the permitted land use and zoning rules?"},
+  {"id": 4, "query": "What are the floor area ratio or FAR regulations?"},
+  {"id": 5, "query": "What is the maximum permissible building height?"},
+  {"id": 6, "query": "What are the site coverage restrictions?"},
+  {"id": 7, "query": "What are the rules for residential buildings?"},
+  {"id": 8, "query": "What regulations apply to commercial buildings?"},
+  {"id": 9, "query": "What are the parking space requirements?"},
+  {"id": 10, "query": "What are the requirements for access roads?"},
+  {"id": 11, "query": "What are the building plan approval requirements?"},
+  {"id": 12, "query": "What restrictions apply to plot dimensions?"},
+  {"id": 13, "query": "What are the rules for building extensions?"},
+  {"id": 14, "query": "What regulations apply to corner sites?"},
+  {"id": 15, "query": "What are the rules for basements in buildings?"},
+  {"id": 16, "query": "What are the requirements for open spaces around buildings?"},
+  {"id": 17, "query": "What zoning restrictions apply to a property?"},
+  {"id": 18, "query": "What building regulations apply to a narrow road?"},
+  {"id": 19, "query": "Which provisions govern building height and setbacks together?"},
+  {"id": 20, "query": "Find the relevant clauses for checking a proposed building plan."}
+]
