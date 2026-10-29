@@ -26,11 +26,30 @@ A production multi-agent service that pre-checks a building proposal against mun
 
 ```text
 .
-├── corpus/   # Public regulations used as the knowledge base
+├── corpus/                              # Public regulations (the knowledge base)
 │   ├── bbmp_bylaws_2003.pdf
+│   ├── bbmp_violation_procedure_2007.pdf
 │   ├── bda_zoning_regs_rmp2015.pdf
 │   └── bda_zoning_amendments_feb2015.pdf
-├── docs/     # Architecture diagram, Evaluation 1 deliverable, data contracts
+├── evaluation/
+│   └── scenarios.json                   # Evaluation scenarios
+├── src/                                 # Service source code
+│   ├── api.py                           # FastAPI endpoints
+│   ├── schemas.py                       # Request data contract (Pydantic)
+│   ├── worker.py                        # Agent worker
+│   ├── indexing.py                      # Builds the vector index
+│   ├── retrieval.py                     # Corpus search
+│   ├── stub_llm.py                      # Fake LLM service for tests
+│   └──telemetry.py                     # Tracing and metrics
+├── test_example/                        # Section 4.1 reference case
+│   ├── agent_design.md
+│   ├── passages_41.md
+│   ├── verify_41.py
+│   └── check_output.txt
+├── docker-compose.yml                   # Starts all services
+├── dockerfile                           # Container image build
+├── requirements.txt                     # Python dependencies
+├── .gitignore
 └── README.md
 ```
 
