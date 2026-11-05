@@ -6,8 +6,14 @@ from redis import Redis
 from rq import Queue
 from rq.job import Job
 from src.schemas import BuildingProposalRequest, ComplianceResultResponse
+<<<<<<< Updated upstream
+=======
+from src.security import scan_text_field_guardrail
+from prometheus_fastapi_instrumentator import Instrumentator
+>>>>>>> Stashed changes
 
 app = FastAPI(title="Building Plan Compliance API")
+Instrumentator().instrument(app).expose(app)
 redis_conn = Redis(host='redis', port=6379)
 task_queue = Queue('agent_queue', connection=redis_conn)
 QUARANTINE_FILE = "quarantined_records.jsonl"
@@ -26,7 +32,16 @@ def submit_proposal(raw_payload: dict):
         quarantine_record(raw_payload, str(e))
         raise HTTPException(status_code=422, detail=f"Quarantined: {str(e)}")
 
+<<<<<<< Updated upstream
     task_queue.enqueue('src.worker.run_agent_pipeline', validated_proposal.model_dump(), job_id=run_id)
+=======
+    passed, why = scan_text_field_guardrail(validated_proposal.notes or "")      # L4: before anything is queued
+    if not passed:
+        quarantine_record(raw_payload, f"input guardrail: {why}")
+        raise HTTPException(status_code=422, detail=f"Quarantined by the input guardrail: {why}")
+
+    task_queue.enqueue('src.worker.run_agent_pipeline', validated_proposal.model_dump(), correlation_id, job_id=run_id, result_ttl=86400)
+>>>>>>> Stashed changes
     
     return ComplianceResultResponse(
         run_id=run_id, 
