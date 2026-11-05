@@ -1,0 +1,19 @@
+{
+  "land_use": "residential",
+  "planning_area": "A",
+  "plot_width_m": 20,
+  "plot_depth_m": 30,
+  "plot_area_sqm": 600,
+  "abutting_road_width_m": 6,
+  "proposed_height_m": 7.5,
+  "proposed_floors": 2,
+  "proposed_plinth_area_sqm": 360,
+  "proposed_total_floor_area_sqm": 400,
+  "proposed_setbacks": {
+    "front_m": 5,
+    "rear_m": 3.5,
+    "left_m": 2.5,
+    "right_m": 3.5
+  },
+  "notes": ""
+}

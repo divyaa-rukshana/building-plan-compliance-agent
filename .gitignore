@@ -3,4 +3,13 @@
 chroma_db/
 src/__pycache__/
 .env
-.env
+__pycache__/
+*.pyc
+.pytest_cache/
+quarantined_records.jsonl
+dump.rdb
+
+__pycache__/
+*.pyc
+.pytest_cache/
+quarantined_records.jsonl
