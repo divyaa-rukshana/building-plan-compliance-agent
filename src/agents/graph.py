@@ -223,8 +223,10 @@ def build_graph(rt: Runtime):
             text, bad = guardrails.filter_output(r.text.strip(), "")
             allowed = {round(x, 6) for x in numbers_in(data)}
             invented = [x for x in numbers_in(text) if round(x, 6) not in allowed]
-            if bad or invented or not text:
-                rt.emit("verifier", "guard", "summary_rejected", determination_words=bad, invented_numbers=invented)
+            toxic = guardrails.screen_toxicity(text).reasons if text else []      # L4: output toxicity
+            if bad or invented or toxic or not text:
+                rt.emit("verifier", "guard", "summary_rejected", determination_words=bad, invented_numbers=invented,
+                        toxic=bool(toxic))
                 rt.note("Model summary rejected by the output filter; a template summary was used.")
                 return {"summary": fallback}
             return {"summary": text}

@@ -5,15 +5,14 @@ Output: the team's result keys (status, decision, primary_reason, findings, exec
         run_id, correlation_id, verified, degraded, conflicts, summary, telemetry, limits_used, corpus_backend, trace.
 """
 from typing import Any, Dict, List, Optional
-
 from rq import get_current_job
-
+from .metrics import record_run
 from src.schemas import BuildingProposalRequest
 from src.telemetry import compute_step_billing_metrics
-
+from .config import get_settings
 from .contract_adapter import from_team_contract
+from .otel import RunTrace
 from .worker import run_proposal
-
 
 def _team_findings(res: Dict) -> List[Dict]:
     out = []
@@ -79,5 +78,10 @@ def run_pipeline(proposal_dict: dict, correlation_id: Optional[str] = None) -> D
     job = get_current_job()
     run_id = job.id if job else None
     proposal = BuildingProposalRequest(**proposal_dict)       # same contract the API used: catches contract drift
-    res = run_proposal(from_team_contract(proposal.model_dump()), run_id, correlation_id=correlation_id)
-    return to_team_result(res)
+    with RunTrace(run_id, correlation_id, get_settings().prompt_version) as tr:     # D5: one Jaeger trace per run
+        res = run_proposal(from_team_contract(proposal.model_dump()), run_id,
+                           correlation_id=correlation_id, hook=tr.hook)
+        out = to_team_result(res)
+        tr.finish(out)
+        record_run(out)
+    return out

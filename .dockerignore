@@ -8,3 +8,5 @@ scripts/
 dump.rdb
 quarantined_records.jsonl
 .env
+
+.venv
