@@ -1,18 +1,16 @@
 import uuid
 import json
 from datetime import datetime
-from fastapi import FastAPI, HTTPException, status, Request
-from fastapi.responses import HTMLResponse, JSONResponse
-from fastapi.exceptions import RequestValidationError
-from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException, status
 from redis import Redis
 from rq import Queue
 from rq.job import Job
 from prometheus_fastapi_instrumentator import Instrumentator
-
 from src.schemas import BuildingProposalRequest, ComplianceResultResponse
 from src.security import scan_text_field_guardrail
 
+app = FastAPI(title="Building Plan Compliance API")
+Instrumentator().instrument(app).expose(app)
 # 1. App Initialization
 app = FastAPI(title="Building Plan Compliance API")
 Instrumentator().instrument(app).expose(app)
