@@ -86,6 +86,7 @@ def run_all(policy: str, backend: str, scenarios):
     return rows
 
 
+
 def metrics(rows):
     ran = [r for r in rows if r["route"] != "rejected_at_ingestion"]
     n = len(rows)
@@ -93,19 +94,29 @@ def metrics(rows):
     ok_c = sum(r["grounded"] for r in rows)
     walls = sorted(r["wall_s"] for r in ran) or [0]
     benign = [r for r in ran if r["expected"] == "clear-for-submission"]
-    need = [r for r in ran if r.get("must_cite") and r["findings"] > 0]      # every run that produced findings, verified or not
+    
+    # FIX: Check if the original scenario actually specified clauses to find
+    need = [r for r in ran if r.get("must_cite")]      
+    
+    # FIX: Safely reconstruct the citation set avoiding [''] from empty strings
+    def get_cited_set(cited_str):
+        return set(cited_str.split(";")) if cited_str else set()
+
     return {
-        "scenarios": n, "route_accuracy": round(sum(r["ok"] for r in rows) / n, 3),
+        "scenarios": n, 
+        "route_accuracy": round(sum(r["ok"] for r in rows) / n, 3),
         "false_clear_rate": round(sum(r["route"] == "clear-for-submission" and r["expected"] != "clear-for-submission" for r in rows) / n, 3),
         "false_block_rate": round(sum(r.get("status") == "blocked" for r in benign) / max(1, len(benign)), 3),
-        "clause_recall": round(sum(set(r["must_cite"]) <= set(r["cited"].split(";")) for r in need) / max(1, len(need)), 3),
+        # FIX: Safe subset calculation using the helper
+        "clause_recall": round(sum(set(r["must_cite"]) <= get_cited_set(r["cited"]) for r in need) / max(1, len(need)), 3),
         "citation_support_rate": round(ok_c / cit, 3) if cit else None,
         "ungrounded_citation_rate": round(1 - ok_c / cit, 3) if cit else None,
         "unverified_answer_rate": round(sum(r.get("verified") is False and r["route"] != "specialist-review" for r in ran) / max(1, len(ran)), 3),
-        "mean_steps": round(st.mean(r["steps"] for r in ran), 1), "mean_tool_calls": round(st.mean(r["tool_calls"] for r in ran), 1),
-        "p50_wall_s": round(walls[len(walls) // 2], 3), "p95_wall_s": round(walls[min(len(walls) - 1, int(len(walls) * 0.95))], 3),
+        "mean_steps": round(st.mean(r["steps"] for r in ran), 1), 
+        "mean_tool_calls": round(st.mean(r["tool_calls"] for r in ran), 1),
+        "p50_wall_s": round(walls[len(walls) // 2], 3), 
+        "p95_wall_s": round(walls[min(len(walls) - 1, int(len(walls) * 0.95))], 3),
     }
-
 
 def main():
     ap = argparse.ArgumentParser()
