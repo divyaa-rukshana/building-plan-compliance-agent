@@ -106,11 +106,6 @@ def search_corpus(query: str, k: int = 5) -> list[dict]:
 
 
 def get_clause(clause_id: str):
-    """
-    Find an indexed chunk containing the exact clause ID.
-
-    Returns the matching chunk, or None if it cannot be found.
-    """
     if not clause_id or not clause_id.strip():
         raise ValueError("Clause ID cannot be empty.")
 
@@ -120,23 +115,18 @@ def get_clause(clause_id: str):
         raise ValueError("Invalid clause ID format.")
 
     collection = get_collection()
+    results = collection.get(include=["documents", "metadatas"])
 
-    results = collection.get(
-        include=["documents", "metadatas"],
-    )
-
-    pattern = re.compile(
-        r"(?<![A-Za-z0-9_.:-])"
-        + re.escape(clause_id)
-        + r"(?![A-Za-z0-9_.:-])",
-        flags=re.IGNORECASE,
+    # First priority: find the clause as a heading.
+    heading_pattern = re.compile(
+        r"(?<![\d.])" + re.escape(clause_id)
+        + r"\s+[A-Z][A-Za-z]"
     )
 
     for document, metadata in zip(
-        results["documents"],
-        results["metadatas"],
+        results["documents"], results["metadatas"]
     ):
-        if pattern.search(document):
+        if heading_pattern.search(document):
             return {
                 "clause_id": clause_id,
                 "text": document,
@@ -146,6 +136,7 @@ def get_clause(clause_id: str):
             }
 
     return None
+   
 
 
 if __name__ == "__main__":
