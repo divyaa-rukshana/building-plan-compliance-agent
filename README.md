@@ -131,3 +131,20 @@ docker compose up --build
 
 - **Submit a proposal:** use the `POST /proposals` endpoint in the Swagger UI with the section 4.1 test cases.
 - **Watch the agent run:** follow the worker logs in the terminal to see the LangGraph agent perform ingestion, auditing and self-verification against the Chroma vector corpus.
+
+## Agents, security and telemetry (Member 2)
+| Document | What it covers |
+|---|---|
+| [test_example/agent_design.md](test_example/agent_design.md) | LangGraph topology (extractor, auditor, verifier), tools, loop limits, verification, routing table, fallback paths |
+| [docs/security_guardrails.md](docs/security_guardrails.md) | `src/security.py`: layers, attacks and malformed input, measurements, limits |
+| [docs/telemetry_and_cost.md](docs/telemetry_and_cost.md) | run id and correlation id, trace and logs, tokens and cost per step and per run |
+| [docs/data_contract.md](docs/data_contract.md) | request, response and rejection formats (generated from `src/schemas.py`) |
+| [docs/HANDOFF_MEMBER3.md](docs/HANDOFF_MEMBER3.md) | what is in place and what remains for retrieval and evaluation |
+
+```
+pip install -r requirements-dev.txt
+python -m pytest -q                              # needs CORPUS_DIR=corpus for the PDF cross-check
+python -m src.agents.eval_batch                  # 26 scenarios (evaluation/agent_scenarios.json)
+python scripts/smoke_docker.py --n 6             # after docker compose up -d --build
+```
+Agent settings (`CONFLICT_POLICY`, `AGENT_*`, `PRICE_*`, `CORPUS_BACKEND`) are listed in `.env.example`.
