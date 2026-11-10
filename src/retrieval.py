@@ -44,6 +44,7 @@ def extract_clause_id(text: str):
         r"\b(?:clause|section|regulation|rule)\s+"
         r"(?:no\.?\s*)?(\d+(?:\.\d+){1,5}(?:_[A-Za-z0-9]+)?)\b",
         r"^\s*(\d+(?:\.\d+){1,5})[.)]?\s+\S",
+        r"\b(\d+(?:\.\d+){1,5})\s*[.)]?\s+[A-Z][A-Za-z][A-Za-z /&()\-]{2,}",
     ]
 
     for pattern in patterns:
