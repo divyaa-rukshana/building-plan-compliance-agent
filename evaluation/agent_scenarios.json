@@ -1,0 +1,568 @@
+[
+  {
+    "id": "A01",
+    "name": "Normal residential proposal",
+    "proposal": {
+      "proposal_id": "A01",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 12,
+      "plot_depth_m": 18,
+      "plot_area_sqm": 216,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "proposed_plinth_area_sqm": 100,
+      "proposed_total_floor_area_sqm": 250,
+      "proposed_setbacks": {
+        "front_m": 3,
+        "rear_m": 2,
+        "left_m": 2,
+        "right_m": 2
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "BBMP2003/9.2",
+    "must_cite": [
+      "BBMP2003/9.2"
+    ],
+    "why": "A standard residential proposal with no obvious height or road constraint."
+  },
+  {
+    "id": "A02",
+    "name": "Residential proposal with narrow road",
+    "proposal": {
+      "proposal_id": "A02",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 10,
+      "plot_depth_m": 15,
+      "plot_area_sqm": 150,
+      "abutting_road_width_m": 6,
+      "proposed_height_m": 8,
+      "proposed_floors": 3,
+      "proposed_plinth_area_sqm": 70,
+      "proposed_total_floor_area_sqm": 180,
+      "proposed_setbacks": {
+        "front_m": 2,
+        "rear_m": 2,
+        "left_m": 1.5,
+        "right_m": 1.5
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "RMP2015/4.1.2.ii.b",
+    "must_cite": [
+      "RMP2015/4.1.2.ii.b"
+    ],
+    "why": "Road width below 9 metres triggers a height restriction."
+  },
+  {
+    "id": "A03",
+    "name": "High-rise with insufficient road width",
+    "proposal": {
+      "proposal_id": "A03",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 22,
+      "plot_depth_m": 25,
+      "plot_area_sqm": 550,
+      "abutting_road_width_m": 9,
+      "proposed_height_m": 18,
+      "proposed_floors": 6,
+      "proposed_plinth_area_sqm": 250,
+      "proposed_total_floor_area_sqm": 1000,
+      "proposed_setbacks": {
+        "front_m": 5,
+        "rear_m": 5,
+        "left_m": 4,
+        "right_m": 4
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "BBMP2003/9.3.3",
+    "must_cite": [
+      "BBMP2003/9.3.3"
+    ],
+    "why": "High-rise proposals require a minimum road width."
+  },
+  {
+    "id": "A04",
+    "name": "High-rise with insufficient site dimension",
+    "proposal": {
+      "proposal_id": "A04",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 15,
+      "plot_depth_m": 25,
+      "plot_area_sqm": 375,
+      "abutting_road_width_m": 15,
+      "proposed_height_m": 20,
+      "proposed_floors": 6,
+      "proposed_plinth_area_sqm": 180,
+      "proposed_total_floor_area_sqm": 900,
+      "proposed_setbacks": {
+        "front_m": 5,
+        "rear_m": 5,
+        "left_m": 4,
+        "right_m": 4
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "BBMP2003/9.3.2",
+    "must_cite": [
+      "BBMP2003/9.3.2"
+    ],
+    "why": "High-rise development requires minimum site dimensions."
+  },
+  {
+    "id": "A05",
+    "name": "Small plot exemption",
+    "proposal": {
+      "proposal_id": "A05",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 5,
+      "plot_depth_m": 9,
+      "plot_area_sqm": 45,
+      "abutting_road_width_m": 6,
+      "proposed_height_m": 6,
+      "proposed_floors": 2,
+      "proposed_plinth_area_sqm": 30,
+      "proposed_total_floor_area_sqm": 60,
+      "proposed_setbacks": {
+        "front_m": 1,
+        "rear_m": 1,
+        "left_m": 1,
+        "right_m": 1
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "BBMP2003/7.2",
+    "must_cite": [
+      "BBMP2003/7.2"
+    ],
+    "why": "The small-plot exemption requires authority interpretation."
+  },
+  {
+    "id": "A06",
+    "name": "Missing planning area",
+    "proposal": {
+      "proposal_id": "A06",
+      "land_use": "residential",
+      "plot_width_m": 12,
+      "plot_depth_m": 18,
+      "plot_area_sqm": 216,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "proposed_plinth_area_sqm": 100,
+      "proposed_total_floor_area_sqm": 250,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "BBMP2003/9.2",
+    "why": "Missing planning area should prevent a definitive compliance decision."
+  },
+  {
+    "id": "A07",
+    "name": "Commercial proposal",
+    "proposal": {
+      "proposal_id": "A07",
+      "land_use": "commercial",
+      "planning_area": "A",
+      "plot_width_m": 12,
+      "plot_depth_m": 18,
+      "plot_area_sqm": 216,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "BBMP2003/9.2",
+    "why": "Commercial proposals are outside the current residential rule scope."
+  },
+  {
+    "id": "A08",
+    "name": "Institutional proposal",
+    "proposal": {
+      "proposal_id": "A08",
+      "land_use": "institutional",
+      "planning_area": "A",
+      "plot_width_m": 20,
+      "plot_depth_m": 30,
+      "plot_area_sqm": 600,
+      "abutting_road_width_m": 15,
+      "proposed_height_m": 12,
+      "proposed_floors": 4,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "BBMP2003/9.2",
+    "why": "Institutional development requires specialist review."
+  },
+  {
+    "id": "A09",
+    "name": "Mixed-use proposal",
+    "proposal": {
+      "proposal_id": "A09",
+      "land_use": "mixed-use",
+      "planning_area": "A",
+      "plot_width_m": 15,
+      "plot_depth_m": 20,
+      "plot_area_sqm": 300,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 10,
+      "proposed_floors": 3,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "BBMP2003/9.2",
+    "why": "Mixed-use classification needs review beyond the residential-only checks."
+  },
+  {
+    "id": "A10",
+    "name": "Residential proposal with excessive height",
+    "proposal": {
+      "proposal_id": "A10",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 12,
+      "plot_depth_m": 18,
+      "plot_area_sqm": 216,
+      "abutting_road_width_m": 7,
+      "proposed_height_m": 15,
+      "proposed_floors": 5,
+      "proposed_plinth_area_sqm": 100,
+      "proposed_total_floor_area_sqm": 250,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "RMP2015/4.1.2.ii.b",
+    "must_cite": [
+      "RMP2015/4.1.2.ii.b"
+    ],
+    "why": "Proposed height exceeds the narrow-road restriction."
+  },
+  {
+    "id": "A11",
+    "name": "Residential plot with wide road",
+    "proposal": {
+      "proposal_id": "A11",
+      "land_use": "residential",
+      "planning_area": "B",
+      "plot_width_m": 15,
+      "plot_depth_m": 20,
+      "plot_area_sqm": 300,
+      "abutting_road_width_m": 18,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "proposed_plinth_area_sqm": 120,
+      "proposed_total_floor_area_sqm": 250,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "clear-for-submission",
+    "expected_route_default": "clear-for-submission",
+    "supporting_passage": "BBMP2003/9.10.5",
+    "must_cite": [
+      "BBMP2003/9.10.5"
+    ],
+    "why": "A wider road does not automatically increase the plot's permitted FAR."
+  },
+  {
+    "id": "A12",
+    "name": "Road width affects FAR",
+    "proposal": {
+      "proposal_id": "A12",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 12,
+      "plot_depth_m": 20,
+      "plot_area_sqm": 240,
+      "abutting_road_width_m": 6,
+      "proposed_height_m": 8,
+      "proposed_floors": 3,
+      "proposed_plinth_area_sqm": 100,
+      "proposed_total_floor_area_sqm": 300,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "BBMP2003/9.10.4",
+    "must_cite": [
+      "BBMP2003/9.10.4"
+    ],
+    "why": "The applicable FAR is constrained by the road width."
+  },
+  {
+    "id": "A13",
+    "name": "Apartment proposal on small plot",
+    "proposal": {
+      "proposal_id": "A13",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 15,
+      "plot_depth_m": 20,
+      "plot_area_sqm": 300,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "notes": "Multi-dwelling apartment building",
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "RMP2015/4.1.2.ii.c",
+    "must_cite": [
+      "RMP2015/4.1.2.ii.c"
+    ],
+    "why": "The plot does not meet the minimum area for the relevant apartment category."
+  },
+  {
+    "id": "A14",
+    "name": "Apartment proposal without ring information",
+    "proposal": {
+      "proposal_id": "A14",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 20,
+      "plot_depth_m": 25,
+      "plot_area_sqm": 500,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 10,
+      "proposed_floors": 3,
+      "notes": "Multi-dwelling apartment building",
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "RMP2015/4.1.2.ii.c",
+    "why": "Ring information is needed to apply the apartment plot-area threshold."
+  },
+  {
+    "id": "A15",
+    "name": "Residential proposal with inadequate setbacks",
+    "proposal": {
+      "proposal_id": "A15",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 12,
+      "plot_depth_m": 18,
+      "plot_area_sqm": 216,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "proposed_plinth_area_sqm": 150,
+      "proposed_total_floor_area_sqm": 250,
+      "proposed_setbacks": {
+        "front_m": 0.5,
+        "rear_m": 0.5,
+        "left_m": 0.5,
+        "right_m": 0.5
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "BBMP2003/Table-4",
+    "must_cite": [
+      "BBMP2003/Table-4"
+    ],
+    "why": "The submitted setbacks may be below the applicable table requirements."
+  },
+  {
+    "id": "A16",
+    "name": "Residential coverage and FAR assessment",
+    "proposal": {
+      "proposal_id": "A16",
+      "land_use": "residential",
+      "planning_area": "B",
+      "plot_width_m": 15,
+      "plot_depth_m": 20,
+      "plot_area_sqm": 300,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "proposed_plinth_area_sqm": 250,
+      "proposed_total_floor_area_sqm": 900,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "RMP2015/Table-10",
+    "must_cite": [
+      "RMP2015/Table-10"
+    ],
+    "why": "The proposed built-up area requires coverage and FAR checks."
+  },
+  {
+    "id": "A17",
+    "name": "Proposal requiring higher setback interpretation",
+    "proposal": {
+      "proposal_id": "A17",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 20,
+      "plot_depth_m": 25,
+      "plot_area_sqm": 500,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 12,
+      "proposed_floors": 4,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "BBMP2003/Note-3",
+    "must_cite": [
+      "BBMP2003/Note-3"
+    ],
+    "why": "The applicable setback interpretation depends on building height."
+  },
+  {
+    "id": "A18",
+    "name": "Proposal with incomplete dimensions",
+    "proposal": {
+      "proposal_id": "A18",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 12,
+      "plot_area_sqm": 216,
+      "abutting_road_width_m": 12,
+      "proposed_height_m": 9,
+      "proposed_floors": 3,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "specialist-review",
+    "expected_route_default": "specialist-review",
+    "supporting_passage": "BBMP2003/9.2",
+    "why": "Missing plot depth prevents reliable checks."
+  },
+  {
+    "id": "A19",
+    "name": "High-rise with compliant dimensions",
+    "proposal": {
+      "proposal_id": "A19",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 25,
+      "plot_depth_m": 30,
+      "plot_area_sqm": 750,
+      "abutting_road_width_m": 15,
+      "proposed_height_m": 18,
+      "proposed_floors": 6,
+      "proposed_plinth_area_sqm": 300,
+      "proposed_total_floor_area_sqm": 1500,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "clear-for-submission",
+    "expected_route_default": "clear-for-submission",
+    "supporting_passage": "BBMP2003/9.3.2",
+    "must_cite": [
+      "BBMP2003/9.3.2"
+    ],
+    "why": "The site dimensions and road width meet the stated high-rise thresholds."
+  },
+  {
+    "id": "A20",
+    "name": "4.1.2 narrow-road height restriction",
+    "proposal": {
+      "proposal_id": "A20",
+      "land_use": "residential",
+      "planning_area": "A",
+      "plot_width_m": 12,
+      "plot_depth_m": 20,
+      "plot_area_sqm": 240,
+      "abutting_road_width_m": 8,
+      "proposed_height_m": 13,
+      "proposed_floors": 4,
+      "proposed_setbacks": {
+        "front_m": 3.0,
+        "rear_m": 2.0,
+        "left_m": 2.0,
+        "right_m": 2.0
+      }
+    },
+    "expected_route_stricter": "revise-and-recheck",
+    "expected_route_default": "revise-and-recheck",
+    "supporting_passage": "RMP2015/4.1.2.ii.b",
+    "must_cite": [
+      "RMP2015/4.1.2.ii.b"
+    ],
+    "why": "This directly tests the RMP 2015 clause 4.1.2 road-width height cap."
+  }
+]
