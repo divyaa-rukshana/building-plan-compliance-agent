@@ -1,0 +1,3 @@
+prompt,v1_words,v2_words,v1_characters,v2_characters,similarity_percent,lines_added,lines_removed
+planner.txt,50,69,375,470,18.22,4,4
+summary.txt,46,46,309,318,16.27,3,3
