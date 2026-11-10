@@ -21,3 +21,7 @@ sentence-transformers
 pypdf
 langgraph
 prometheus-fastapi-instrumentator
+
+fakeredis==2.40.0
+trulens
+trulens-providers-openai

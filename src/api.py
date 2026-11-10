@@ -1,7 +1,7 @@
 import uuid
 import json
 from datetime import datetime
-from fastapi import FastAPI, HTTPException, status, Request
+from fastapi import FastAPI, HTTPException, status, Request, Depends
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.exceptions import RequestValidationError
 from pydantic import BaseModel
@@ -84,8 +84,38 @@ async def serve_ui():
     </html>
     """
 
+
+def enforce_rate_limit(request: Request):
+    client_ip = request.client.host if request.client else "unknown"
+    key = f"rate_limit:{client_ip}"
+
+    try:
+        count = redis_conn.incr(key)
+
+        if count == 1:
+            redis_conn.expire(key, 60)
+
+        if count > 10:
+            raise HTTPException(
+                status_code=429,
+                detail="Rate limit exceeded. Try again after one minute."
+            )
+
+    except HTTPException:
+        raise
+    except Exception:
+        # Allow requests if Redis is temporarily unavailable.
+        pass
+
+
 # 3. Main Proposal Endpoint
-@app.post("/proposals", status_code=status.HTTP_202_ACCEPTED, response_model=ComplianceResultResponse)
+@app.post(
+    "/proposals",
+    status_code=status.HTTP_202_ACCEPTED,
+    response_model=ComplianceResultResponse,
+    dependencies=[Depends(enforce_rate_limit)]
+)
+
 def submit_proposal(raw_payload: dict):
     run_id = f"run-{uuid.uuid4().hex[:8]}"
     correlation_id = str(uuid.uuid4())
