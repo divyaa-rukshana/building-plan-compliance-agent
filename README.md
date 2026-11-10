@@ -132,7 +132,7 @@ docker compose up --build
 - **Submit a proposal:** use the `POST /proposals` endpoint in the Swagger UI with the section 4.1 test cases.
 - **Watch the agent run:** follow the worker logs in the terminal to see the LangGraph agent perform ingestion, auditing and self-verification against the Chroma vector corpus.
 
-## Agents, security and telemetry (Member 2)
+## Agents, security and telemetry
 | Document | What it covers |
 |---|---|
 | [test_example/agent_design.md](test_example/agent_design.md) | LangGraph topology (extractor, auditor, verifier), tools, loop limits, verification, routing table, fallback paths |
@@ -140,6 +140,8 @@ docker compose up --build
 | [docs/telemetry_and_cost.md](docs/telemetry_and_cost.md) | run id and correlation id, trace and logs, tokens and cost per step and per run |
 | [docs/data_contract.md](docs/data_contract.md) | request, response and rejection formats (generated from `src/schemas.py`) |
 | [docs/HANDOFF_MEMBER3.md](docs/HANDOFF_MEMBER3.md) | what is in place and what remains for retrieval and evaluation |
+| [RUNBOOK.md](RUNBOOK.md) | Operational runbook: failure modes, symptoms, confirmations, and recovery procedures |
+| [INCIDENT_LOG.md](INCIDENT_LOG.md) | Development incident log recording real failures and resolutions |
 
 ```
 pip install -r requirements-dev.txt
