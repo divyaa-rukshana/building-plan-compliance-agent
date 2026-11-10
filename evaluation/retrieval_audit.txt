@@ -1,0 +1,1080 @@
+
+==========================================================================================
+QUERY 1: What are the building setback requirements?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 7
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4257
+Text:
+6 CHAPTER 7: Regulations for Residential and Non Residential Development Plan 7.10 Regulations for Residential Development Plan 45 7.20 Regulations for Non Residential Development Plan & Flatted Factories 46 CHAPTER 8: Parking Requirements and Norms …………………………….. 48 CHAPTER 9: Fire protection Requirements & Safety Measures against Earthquake .……………………… 50 CHAPTER 10: Transfer of Development Rights (TDR) ………………………. 53 APPENDIX I: Building lines specified for various Roads 57 APPENDIX II: Affidavit to be submitted by the Architect/Engineer/Planner… 60 APPENDIX III: TDR application format. 61 APPENDIX IV: DRC register format. 62 APPENDIX V: Undertaking by the applicant. 63 APPENDIX VI: Affidavit to be given by the owner. 64 APPENDIX VII : DRC utilisation form. 65 APPENDIX VIII: Development Rights Certificate. 68
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 20
+Chunk: 0
+Clause: None
+Cosine Distance: 0.43
+Text:
+- 19 - CHAPTER.3.0: REGULATIONS APPLICABLE TO ALL ZONES 3.1 SETBACKS: Front and Rear setback shall be with reference to depth of the site. i. The left and right setback shall be with reference to width of the site. ii. Up to 11.5 m height, the setbacks are calculat ed as percentages of depth and width of the plot, as per Table.8. iii. Table.9 shall be referred for Buildings which are more than 11.5 m in height to fix the setbacks. iv. In case of irregular plots, the setbacks are to be calculated according to the depth or the width at the point where the depths or widths are varying and average setbacks shall not be considered in such cases. v. The setbacks shall be provided in the owners plot. Public open spaces or conservancies should not be considered as setbacks. vi. Wherever the building lines are fixed, in su ch cases the front setback or the building line which ever is higher shall be considered as the front setback to the building. vii. In case of corner site, both the sides fac
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 25
+Chunk: 2
+Clause: None
+Cosine Distance: 0.4352
+Text:
+the setbacks shall not be less than the specified setbacks at any given point on any side. Note 9 : In case of irregular plots the set-backs are to be calculat ed according to the depth or width at the points where the depths or widths are varyi ng. Average set-backs shall not be considered in such cases. Note 10 : The left and right set-backs may be interchange d by the Authority in exceptional cases due to existing structures like; open well and also considering the topography of the land. However, this shall be resorted to by the Authority only as an exception. Note 11: Set-backs should be provided in the owner’s plot. Public open space or conservancy should not be considered as set-backs. Note 12: In case of two or more buildings proposed on a single site, the set-backs shall be applied by considering them as a common building. In such cases, the distance between the two buildings shall be minimum of half the height of the taller building. Note 13: For plots with an area of more t
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 51
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4387
+Text:
+- 50 - CHAPTER 9: FIRE PROTECTION REQUIREMENTS AND SAFETY MEASURES AGAINST EARTH QUAKE. 9.1 General – The Planning design and construction of any building shall be such as to ensure safety from fire. For this purpose, unless otherwise specified in these Regulations, the provisions of Part-IV, Fire Protection Chapter and National Building Code shall apply. For multi-storeyed, high rise and special buildings, additional provisions relating to fire protection contained in Annexure C of NBC shall also apply. The approach to the building and open spaces on all sides up to 6mtrs width and their layout shall conform to the requirements of the Chief Officer. They shall be capable of taking the weight of a fire engine weighing up to 18 tonnes. These open spaces shall be free of any obstruction and shall be motorable. 9.2 Exits.- Every building meant for human occupancy shall be provided with exits sufficient to permit safe escape of its occupants in ca se of fire or other emergency for which th
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 10
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4482
+Text:
+Building Bye-Laws – 2003 10 e) the position of the adjacent pl ots whether vacant or built up; f) the area to be occupied by the propo sed building and the set backs proposed for proper air and ventilation; g) the nature of the ground on which the proposed building is to be erected, whether natural like, rocky, gravelly, clayey, sandy etc., or made up ground. In the case of made up ground, the time when it was so made up and the materials used in making it up shall be indicated. In case of sloping ground where the gradient exceeds 5% (1:20) block levels have to be furnished in the site plan; h) any physical features such as wells, drains, transmission lines, etc.; i) natural features like existi ng trees, ridges, valleys etc., j) block levels in cases where basement/cellar floors are proposed below ground level; k) such other particulars, as may be specified by the Authority. 3.2.(5.3) Building plan – Building plan drawn to a scale of not more than 1:100 showing the following particula
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 2: What road width requirements apply to building plans?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 23
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3599
+Text:
+- 22 - 3.8) Means of access: i. The means of exclusive access which would be other than through public roads or streets shall not be more than 30.0 m in length from the existing public road and the minimum width of such access shall be 3.5 m. If the width of access road is less than 3.5 mtrs, then max floor area permitted in such cases shall not exceed 150 sq mtrs and 50 sq mtrs in residential and commercial zones respectively irrespective of the sital area. ii. FAR and height of the building shall be regulated according to the width of public street or road only. iii. The means of exclusive access which would be other than through public roads or streets having more width than the public road or street, but less than 30.0 m in length, then width of the public road or street shall be considered for reckoning FAR. iv. Access rights needs to be obtained before applying for any sanction/permission for development. Documents to support the rights obtained needs to be submitted along with t
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 28
+Chunk: 1
+Clause: None
+Cosine Distance: 0.3772
+Text:
+p to 360 Up to 75 % 1.75 Up to 12.0 2. Above 360 up to 1000 Up to 65 % 2.25 Above 12.0 up to 18.0 3 Above 1000 up to 2000 Up to 60 % 2.50 Above 18.0 up to 24.0 4. Above 2000 up to 4000 Up to 55 % 3.00 Above 24.0 up to 30.0 5. Above 4000 up to 20000 Up to 50 % 3.25 Above 30.m ii) Notes: a) Setbacks shall be in accordance with Table.8 or Table.9 depending on the height of proposed building and the plot size. b) If the road width is less than 9.0 m, then the maximum height is restricted to 11.5 meters or Stilt +GF+2 floors (whichever is less) irrespective of the FAR permissible c) Multi dwelling units (Apartments) shall be allowed only on plot sizes of above 360 sq.m in the I and II Ring and on plots above 750 sq.m in the III Ring. In both cases, the road width shall be more than 9.0m. d) TDR is applicable as per rules. 4.1.3) Parking As applicable vide Table no: 23
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 30
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3792
+Text:
+Building Bye-Laws – 2003 30 11.0 Row housing: Row housing shall have a minimum of three dwelling units and a maximum of 12 dwelling units on one site. Other stipulations are prescribed in Table 8 TABLE 8 (Bye-law 11.0) Row housing 1. Min. combined area of plot : 210 sq. mtr. 2. Max. area of each plot : 108 sq. mtr 3. Coverage : 4. Floor area ratio : As applicable to 5. Number of floors : Individual plots 6. Minimum road width : 7. Setbacks min. Front : 2.00 m Rear : 1.50 m Side : 2.00 only for end units 12.0 GROUP HOUSING 12.1 Norms for Approval of Group Housing Plan The following norms shall be adopted while approving the layout plan for group housing:- i) The boundary roads if any must have a minimum width of 12 mtr. ii) The FAR should be considered with reference to the width of the public road abutting the property and the FAR should be calculated a fter deducting the area reserved for parks, open spaces and civic amenities. iii) The set-backs should be provided with reference to d
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 44
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4077
+Text:
+- 43 - CHAPTER 6: SUBDIVISION REGULATIONS 6.1) RESIDENTIAL a. Road widths: The minimum width of road shall not be less than 9.0 m and the road widths shall not be less than the plot widths facing the respective road. Every Fourth road in a layout shall have a minimum of 12.0 m width. b. Area for Residential development: Apart from the provision for amenities and open spaces, the area for residential development shall be up to a maximum of 55 % of the total land area. c) Parks / Open spaces and Playgrounds: Parks / Open spaces and Playgrounds shall not be less than 15 % of the total land area. This shall be relinquished to the Authority (free of cost and free of encumbrance) and if required, the authority may handover the area for maintenance to the resident’s welfare association. If the land is not maintained up to the satisfaction of the authority, it shall be resumed back by the authority. d) Civic amenities and Roads: i) After making provision for Parks and roads in the layout, the
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 7
+Chunk: 1
+Clause: None
+Cosine Distance: 0.408
+Text:
+pital run by public institutions , public exhibition hall, lecture room or any other place of public assembly. 2.69 ‘residential building’ means a building used or constructed or adopted to be used wholly for human habitation and includes garages, and other out-houses necessary for the normal use of the building as a residence. 2.70 ‘road width’ means the distance between the boundaries of a road including footways and drains measured at right angles to the c entre of the plot. In case of roads having service roads in addition to the main roads, the width of road shall be the aggregate width of service roads and main roads for determining FAR and No. of Floors. 2.71 ‘room height’ means the vertical distance measured between the finished floor surface and the finished ceiling surface. Where a finis hed ceiling is not provided, the under side of the joists or beams or tie-beams shall determine the upper point of measurement. 2.72 ‘registered architect/engineer / supervisor’ means a quali
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 3: What are the permitted land use and zoning rules?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 27
+Chunk: 0
+Clause: None
+Cosine Distance: 0.2156
+Text:
+- 26 - CHAPTER 4: REGULATIONS FOR MAIN LAND USE ZONES
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 12
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3527
+Text:
+11 CHAPTER 2.0: LIST OF LAND USE CATEGORIES PERMISSIBLE IN VARIOUS ZONES Various land uses permissible within each zone are listed below. • Land uses are grouped according to the nature and intensity of use in an ascending manner. For e.g.: C-4: indicates C= Commercial and 4 the order within the category. The C-4 list includes all land uses permissible specific to C-4 and the lower order uses of C- 3, C-2, and C-1 unless specifically mentioned. • The various codes used include: • R: Residential • C: Commercial: C-1 to C-6 o I: Industrial: I-1 to I-4 • T: Transportation: T-1 to T-4 • U: Public and Semi Public: U1 to U4. • Though the various uses are listed, the corresponding space standards for buildings/uses are to be referred. The two main parameters are minimum size of Plot and the Minimum width of Road. Table 1: Permissible Land uses in Residential category R Residential land uses 1. Plotted residential developments 2. Villas, semi detached houses 3. Apartments, Hostels, Dharmashala
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 27
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3572
+Text:
+Building Bye-Laws – 2003 27 In the case of high rise buildings, the ramp may be provided in the set back area without affecting the free movement of fire tenders. 9.6 Application of land use : 9.6.1. Where the nomenclature of a road differs from the one mentioned in the district maps of the development plan, the locati on of the site may be considered to determine the land use. 9.6.2. In cases of permitted land use, the Z oning Regulations shall be applied to a building keeping in view the use of the proposed build ing without reference to the land use of the Zone. However, the front set back shall be the higher of the one prescribed for that particular zone or the one prescribed for the use permitted in the zone. Example: If residential permission is granted in a commercial zone, the regulations applicable to residential use only be adopted except maintaining the higher of the front set back applicable either to commercial or residential use. 9.6.3. The land use indicated towards the
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 40
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3643
+Text:
+- 39 - 4.12 PARK AND OPEN SPACE (P) 4.12.1) Description The natural and man made features meant for environmental conservation and preservation, including water bodies, forests and drai ns; parks, playgrounds, burial grounds and crematoria. 4.12.2) Regulations i) Permissible land uses: i. Uses permissible include: Sports grounds, stadium, playgrounds, parks, swimming pools, cemeteries, garden land and crematoria. ii. Uses permissible under special circumstances by the authority: Open air theatres, indoor recreational uses, dwelling for watch and ward, sports clubs, libraries, milk booths, HOPCOMS, the area of such use shall not exceed 5% of the total area and shall not be more than G+ 1 floor in any case. iii. Setbacks for the above will be decided by the Authority taking into account the surrounding development and traffic scenario in that area. ii) Valley/ drain Within the demarcated buffer for the valley the following uses are allowed: i. Sewerage Treatment Plants and Water treatmen
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 46
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3659
+Text:
+- 45 - 6.3 REGULATIONS FOR NON RESIDENTIAL LAYOUT PLAN: Sanction of layout plans for non residentia l purpose shall be subject to the following conditions: i. 10 % of Total area shall be earmarked for Park and Civic amenities (ratio to be decided by authority). ii. Minimum width of road shall not be less than 12.0 m. iii. 5 % of the total area shall be reserved for parking purpose. iv. Parks, CA and roads shall be handed over to Authority as per section 32 of BDA Act, 1976. CHAPTER 7: REGULATIONS FOR RESIDENTIAL DEVELOPMENT PLANS AND NON RESIDENTIAL DEVELOPMENT PLANS. 7.1 Regulations for Residential Development Plan: 1. 10 % of the land shall be reserved for Park & Open space. The open space (park) shall be relinquished to the authority free of cost and the same may be allowed to be maintained by the local residents association (registered), if the Authority so desires. 2. A minimum 5 % of total plot area shall be provided for Civic amenities and the owner or developer shall develop su
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 4: What are the floor area ratio or FAR regulations?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 21
+Chunk: 1
+Clause: None
+Cosine Distance: 0.2933
+Text:
+e lower surface of storey on which one normally walks into the building; the general term floor does not refer to basements / cellar or mezzanine floor. i. Floor area for calculating Parking requirements: Floor area shall be the aggregate area of all the floors of a building including thickness of wall, staircase room, lift room, escalators, balconies, lobbies, corridors, foyers, and such other parts provided for common service. 3.4) FAR or Floor Area Ratio i) The ratio of the Floor area to the plot area is FAR. However, it includes escalators, open balconies, staircase and corridors. ii) The floor area ratio shall exempt the floor area used for purposes such as parking space, main stair case room, lift shaft, lift wells, and lift machine rooms, ramps, ventilation ducts, sanitary ducts and overhead tanks. iii) When the site does not face the road of required width noted against each, then the FAR applicable to the corresponding width of the roads shall apply.
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 28
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4132
+Text:
+ool/primary school 33.33% d. Secondary school 30% e. College 25% 9.10.3 (a) The floor area of a building shall be the aggregate area of the floors of all parts of the building including thickness of walls, par king area, staircase rooms, lift rooms, ramps, escalators, machine rooms, balconies, ducts including sanitary ducts, water tanks, lobbies, corridors, foyers and such other parts provided for common service. (b) The floor area ratio shall exempt the floor area used for the following purposes, namely:- (i) parking space (ii) staircase rooms (iii) lift rooms (iv) ramps (v) escalators (vi) machine rooms (vii) open balconies (viii) ducts including sanita ry ducts and (ix) water tanks. (c) Parking area shall be exempted to the extent required for the building. (d) The area covered by the following structur es on the roof are exempted from the floor area upto fifteen percent of the area of the roof over which they are erected, namely:- (i) staircase rooms (ii) lift machine rooms (iii) p
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 47
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4255
+Text:
+- 46 - 7.2 ) Regulations for Non Residential Development Plan and Flatted Factories The non residential development plan and flatted industries are approved on the following conditions: a. 10% of the total area shall be reserved for Parks and Open Spaces, which shall be maintained by the owner to the satisfaction of the Authority. b. Parking area requirements shall be as applic able vide Table no: 23. An additional 5% of the plot area shall be reserved for surface parking. c. FAR is calculated based on entire sital area excluding the area reserved for Park and Open Spaces. d. Roads as shown in the Revised Master Plan 2015 shall be incorporated within Plan and shall be handed over to the Authority free of cost. e. The FAR and coverage shall be as per Table no 21, below. Table.21 FAR & Ground coverage for Non – Residential development Plan and flatted industries on a sital area over 12,000sqm. Road width (m) Coverage FAR Less than 9 60% 1.50 Above 9 and up to 12 55% 1.75 Above 12 and up
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 38
+Chunk: 3
+Clause: None
+Cosine Distance: 0.4344
+Text:
+of access steps to the plinth, the co nstruction shall be within the plot boundaries. In special cases, where the general level of t he site is higher than the street level, the Authority shall have the power to impose co nditions on the building schemes prescribing the location of the building and of any step s or ramps leading from the streets to the proposed building within the plot only. Such access ways shall be kept completely free of obstructions and open to the sky. 20.0 Requirement of parts of building. 20.1 Habitable rooms – (1) No habitable room shall have a floor area of less than 8.0 sqm. for plot sizes upto 120 sqm with a minimum width of 2.4 m. (2) The minimum height of all rooms used for human habitation shall be 2.75 m measured from the surface of the floor to the lowest point of the ceiling (bottom slab). In case of air conditioned rooms, the height of not less than 2.4 m. measured from the surface of the floor to the lowest point of the air conditioning duct or false
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 30
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4354
+Text:
+Building Bye-Laws – 2003 30 11.0 Row housing: Row housing shall have a minimum of three dwelling units and a maximum of 12 dwelling units on one site. Other stipulations are prescribed in Table 8 TABLE 8 (Bye-law 11.0) Row housing 1. Min. combined area of plot : 210 sq. mtr. 2. Max. area of each plot : 108 sq. mtr 3. Coverage : 4. Floor area ratio : As applicable to 5. Number of floors : Individual plots 6. Minimum road width : 7. Setbacks min. Front : 2.00 m Rear : 1.50 m Side : 2.00 only for end units 12.0 GROUP HOUSING 12.1 Norms for Approval of Group Housing Plan The following norms shall be adopted while approving the layout plan for group housing:- i) The boundary roads if any must have a minimum width of 12 mtr. ii) The FAR should be considered with reference to the width of the public road abutting the property and the FAR should be calculated a fter deducting the area reserved for parks, open spaces and civic amenities. iii) The set-backs should be provided with reference to d
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 5: What is the maximum permissible building height?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 33
+Chunk: 2
+Clause: None
+Cosine Distance: 0.2903
+Text:
+vicinity of aerodromes, the maximum height of the building shall be as permissible in 15.1 above, or as shown in Table 12 whichever is lower. These shall be regulated by the rules for the construction of buildings in the vicinity of aerodromes by the competent Aerodrome Authority. 15.4 Height exception for the structures on roof: The following appurtenant structures shall not be included in the height of the building. i) Water tanks and their supports, equipments for ventilation, air-conditioning and similar services, lift rooms, roof structures like; stair-case room, pent house, chimneys, parapet walls and other architectural features. ii) The height of parapet wall and architectura l features shall not exceed 1.0 metre and the height of other structures shall not exceed 4.50 meters for claiming the height exemption. iii) The aggregate area of such structures sha ll be limited to the extent prescribed in the bye- law 9.10.3 (d). If this limit is exceeded, t he structures shall be cons
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 33
+Chunk: 3
+Clause: None
+Cosine Distance: 0.3056
+Text:
+rea of such structures sha ll be limited to the extent prescribed in the bye- law 9.10.3 (d). If this limit is exceeded, t he structures shall be considered for reckoning the height of the building.
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 33
+Chunk: 1
+Clause: None
+Cosine Distance: 0.3368
+Text:
+ding 1/3 of the setback subjec t to a maximum of 1.1 mtrs. in the first floor and 1.75 metres in and above the second floor. No balcony is allowed at the ground floor level. The length of the balcony shall be limited to 1/3 of the length of each side of the building. 14.4 Cross wall - A cross wall connecting the building and the boundary wall may be permitted limiting the height of such wall to 1.5 mtr. 15.0 Height limitation 15.1 The height of the building shall be governed by the limitation of the FAR, coverage, setbacks and the width of the street facing the plot as stipulated in the respective tables. 15.2 If a building abuts two or more streets of di fferent widths, then the height of the building shall be regulated according to the width of the wider road. 15.3 For buildings within the landing and take off zones of air craft in the vicinity of aerodromes, the maximum height of the building shall be as permissible in 15.1 above, or as shown in Table 12 whichever is lower. These sh
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 38
+Chunk: 3
+Clause: None
+Cosine Distance: 0.3492
+Text:
+of access steps to the plinth, the co nstruction shall be within the plot boundaries. In special cases, where the general level of t he site is higher than the street level, the Authority shall have the power to impose co nditions on the building schemes prescribing the location of the building and of any step s or ramps leading from the streets to the proposed building within the plot only. Such access ways shall be kept completely free of obstructions and open to the sky. 20.0 Requirement of parts of building. 20.1 Habitable rooms – (1) No habitable room shall have a floor area of less than 8.0 sqm. for plot sizes upto 120 sqm with a minimum width of 2.4 m. (2) The minimum height of all rooms used for human habitation shall be 2.75 m measured from the surface of the floor to the lowest point of the ceiling (bottom slab). In case of air conditioned rooms, the height of not less than 2.4 m. measured from the surface of the floor to the lowest point of the air conditioning duct or false
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 26
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3569
+Text:
+Building Bye-Laws – 2003 26 9.3 High rise buildings. 9.3.1 In the case of ‘high-rise buildings’ the minimum set-back all-round the building shall be as in Table 5. 9.3.2 Minimum depth or width of a site for high rise buildings shall be 21 mtrs. 9.3.3. Minimum road width facing a high rise building shall be 12mts. 9.4 Garages 9.4.1. For the buildings upto a height of 9.50 metres, one garage may be permitted in the rear right hand corner of the plot without right and rear set backs, if the following requirements are fulfilled, namely a) height of the garage does not exceed 3.00 Metres from the ground level; b) not more than one upper floor is proposed over such a garage; c) height of the garage and the upper floor, if any, is limited to 6.50 Metres from the ground level; d) no other structure is proposed over upper floor of the garage; e) no openings are provided in the garage and its upper floor towards the neighbouring buildings; f) the upper floor is accessible only from lower floor;
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 6: What are the site coverage restrictions?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 8
+Chunk: 1
+Clause: None
+Cosine Distance: 0.5445
+Text:
+rcial (Business) Table 15: FAR and Ground Coverage in Mutation Corridors Table 16: FAR and Ground Coverage in Industrial (General) Table 17 FAR and Ground Coverage in Industrial (Hi-Tech) Table 18: FAR and Ground Coverage in Public and Semi public Table 19: FAR and Ground Coverage in Traffic and Transportation Table 20: FAR & Ground coverage for Residential Development Plan on a sital area of above 20,000sqm. Table 21: FAR & Ground coverage for Non Residential Development Plan and Flatted factories on a sital area of above 12,000sqm Table 22: FAR and Ground coverage for Integrated Township. Table 23: Parking requirements Table 24: Fire protection requirements—Width and number of exits for various occupancies. Table 25: TDR utilization table for deferent zones. Table 26: Building lines specified for various roads
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 47
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5501
+Text:
+- 46 - 7.2 ) Regulations for Non Residential Development Plan and Flatted Factories The non residential development plan and flatted industries are approved on the following conditions: a. 10% of the total area shall be reserved for Parks and Open Spaces, which shall be maintained by the owner to the satisfaction of the Authority. b. Parking area requirements shall be as applic able vide Table no: 23. An additional 5% of the plot area shall be reserved for surface parking. c. FAR is calculated based on entire sital area excluding the area reserved for Park and Open Spaces. d. Roads as shown in the Revised Master Plan 2015 shall be incorporated within Plan and shall be handed over to the Authority free of cost. e. The FAR and coverage shall be as per Table no 21, below. Table.21 FAR & Ground coverage for Non – Residential development Plan and flatted industries on a sital area over 12,000sqm. Road width (m) Coverage FAR Less than 9 60% 1.50 Above 9 and up to 12 55% 1.75 Above 12 and up
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 48
+Chunk: 1
+Clause: None
+Cosine Distance: 0.5595
+Text:
+of integrated town ship i. 10% of the total area shall be reserved for parks & open space. It shall be handed over to the authority free of cost & shall be maintained by the developer to the satisfaction of the authority. ii. 5% of the site area shall be reserved for public & semi-public use / CA sites & shall be handed over to the authority; the same shall be allotted by the authority for development for specified C.A. either to the developer or others on lease basis. iii. The FAR is calculated on entire area excluding area reserved for CA. iv. Road shown in by Revised Master Plan 2015 shall be incorporated with in the plan and shall be handed over to the authority free of cost. v. The FAR & coverage shall be as below; Table 22: FAR and Ground coverage for Integrated Township. Road Width Coverage FAR Allowable Above 18m < 24m 55% 2.5 Above 24m < 30m 50% 3.00 Above 30m 45% 3.25
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 8
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5703
+Text:
+7 LIST OF TABLES Table 1: Permissible land uses in Residential Category Table 2: Permissible land uses in Commercial Category Table 3: Permissible land uses in Industrial Category Table 4: Illustrative list of uses in the Industrial (I-1) category Table 5: Permissible land uses in Transportation Category Table 6: Permissible land uses in Public and Semi public category. Table 7: Space standards for various buildings/uses Table 8: Setbacks for building up to a Height of 11.5 m & Plot size of up to 4000sq.m Table 9: Setbacks for buildings above 11.5 m height Table 10: FAR and Ground Coverage in Residential (Main) Table 11: Plot Size and Ancillary uses permissible in Residential (Mixed) Table 12: FAR and Ground Coverage in Residential (Mixed) Table 13: FAR and Ground Coverage in Commercial (Central) Table 14: FAR and Ground Coverage in Commercial (Business) Table 15: FAR and Ground Coverage in Mutation Corridors Table 16: FAR and Ground Coverage in Industrial (General) Table 17 FAR and Gr
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 29
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5754
+Text:
+Building Bye-Laws – 2003 29 9.10.5 When a site faces wider road than the one prescribed against it, the FAR shall be restricted only to the limit prescribed for the area of that particular site. 9.10.6 When coverage is less than the maximum prescribed in Table 6, floors and height beyond the limits indicated in table 5 may be permitted to utilise the full FAR subject to the provision of minimum set backs prescribed in Tables 4 and 5, whichever is applicable. 9.10.7 The set-backs and coverage shall be determined irrespective of the width of the road. 9.10.8 Buildings for cinemas - Setbacks and other requirements for permanent or other cinema buildings shall be in accordance with the Karnataka Cinemas (Regulation) Act 1964 and the rules made there under. No building other than a cinema theatre shall be permitted on the sites of cinema theatres unless such buildings are permissible under the above said Act. 9 .10.9 Minimum Road Width for Kalyana Mantapas – TABLE - 6A Site Area Minimum Roa
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 7: What are the rules for residential buildings?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 21
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3397
+Text:
+Building Bye-Laws – 2003 21 9.0 OPEN SPACES, COVERAGE AND FLOOR AREA RATIO. 9.1 Open spaces – Every room intended for human habitation shall abut on an interior or exterior open space or open verandah open to such interior or exterior open space. 9.2 Exterior open spaces/ set backs, coverage, floor area ratio, numbers of floors and heights - The set backs required on all the sides of building/s, maximum plot coverage, maximum FAR, maximum number of floors, maximum height of buildings that are permissible for different dimensioned sites and widths of roads are set out in Tables 4, 5 and 6 given below.
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 7
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3757
+Text:
+6 CHAPTER 7: Regulations for Residential and Non Residential Development Plan 7.10 Regulations for Residential Development Plan 45 7.20 Regulations for Non Residential Development Plan & Flatted Factories 46 CHAPTER 8: Parking Requirements and Norms …………………………….. 48 CHAPTER 9: Fire protection Requirements & Safety Measures against Earthquake .……………………… 50 CHAPTER 10: Transfer of Development Rights (TDR) ………………………. 53 APPENDIX I: Building lines specified for various Roads 57 APPENDIX II: Affidavit to be submitted by the Architect/Engineer/Planner… 60 APPENDIX III: TDR application format. 61 APPENDIX IV: DRC register format. 62 APPENDIX V: Undertaking by the applicant. 63 APPENDIX VI: Affidavit to be given by the owner. 64 APPENDIX VII : DRC utilisation form. 65 APPENDIX VIII: Development Rights Certificate. 68
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 19
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3782
+Text:
+Building Bye-Laws – 2003 19 PART III GENERAL BUILDING REQUIREMENTS 7.0 Requirements of building sites 7.1 No piece of land shall be used as a site for the construction of buildings under the following circumstances: a) if the site is not drained properly or is incapable of being well drained; b) if the Authority considers t hat the site is insanitary or it is dangerous to construct a building on it; c) if the building is proposed on any area fill ed up with filthy and offensive matter without a certificate from the Health Officer and Corporation Engineer to the effect that it is fit to be built upon from health and sanitary point of view; d) if the site is within a distance of nine me ters from the water spread area of a tank at full tank level; e) if the owner of the building has not shown to the satisfaction of the Authority that all the measures required to safeguard the construc tion from constantly getting damp are being taken.; f) if the building is for an office or public buildi
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 5
+Chunk: 0
+Clause: None
+Cosine Distance: 0.387
+Text:
+Building Bye-Laws – 2003 5 2.38 ‘Government’ means the Government of Karnataka. 2.39 ‘ground floor’ means immediately above the level of the adjoining ground level on all sides, sides or above the basement floor. 2.40 ‘group housing’ means more than two buildings on a plot with one or more floors and with one or more dwelling units in each floor. They are co nnected by an access of not less than 3.5m in width, if they are not approachable directly from the road. 2.41 ‘habitable room’ means a room occupied or designed for occupancy by one or more persons for study, living, sleeping, cooking, eating, but does not include bath rooms, water closet compartments, laundries, serv ing and storage pantries, corridors, cellars, attics and spaces that are not used frequently or during extended periods. 2.42 ‘hazardous buildings’ means a building or part of a building which is used for the storage, handling, manufacture or processing of highly combustible or explosive material or products which ar
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 22
+Chunk: 0
+Clause: None
+Cosine Distance: 0.39
+Text:
+Building Bye-Laws – 2003 22 TABLE 4 (Bye-law 9.2) EXTERIOR OPEN SPACES/SETBACKS IN METRES FOR RESIDENTIAL, COMMERCIAL, PUBLIC & SEMI-PUBLIC, TRAFFIC & TRANSPORTATION AND PUBLIC UTILITY BUILDINGS UPTO 9.5 MTRS. IN HEIGHT Residential Commercial T & T. P.U.& Public and Semi-Public Residential Comercial T & T. P.U. & Public and Semi Public Depth of site in mtrs. Front Rear Front Rear Front Rear Width of site in mtrs. Left Right Left Right Left Right Upto 6 1.00 - 1.00 - 1.50 - Upto 6 - 1.00 - - - 1.50 Over 6 upto 9 1.00 1.00 1.50 - 1.50 1.50 Over 6 upto 9 1.00 1.00 - 1.50 1.50 1.50 Over 9 upto 12 1.50 1.50 1.50 1.50 3.00 1.50 Over 9 upto 12 1.50 1.50 1.50 1.50 1.75 1.50 Over 12 upto 18 3.00 1.50 3.00 1.50 3.00 1.50 Over 12 upto 18 1.50 3.00 1.50 3.00 2.00 3.00 Over 18 upto 24 4.00 3.00 3.50 3.00 4.50 2.00 Over 18 upto 24 2.50 3.50 2.50 4.00 3.00 3.00 Over 24 5.00 3.50 4.50 3.00 6.00 3.00 Over 24 3.00 4.00 3.00 4.50 3.50 4.50 Abbreviations T & T = Traffic & Transpor tation, P.U. = Public ut
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 8: What regulations apply to commercial buildings?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 3
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4175
+Text:
+Building Bye-Laws – 2003 3 2.12 ‘chejja’ means a continuous sloping or horizontal cantilever projection provided over an opening or external wall to provide protection from sun and rain. 2.13 ‘chimney’ means a structure usually vertical containing a passage or flue by which the smoke, gas, etc., of a fire or furnace are carried off and by means of which a draught is created. 2.14 ‘commercial building’ means a building or part of a building, which is used as shops, and/or market for display and sale of merchandise either wholesale or retail, building used for transaction of business or the keeping of accounts, records for similar purpose; professional service facilities, corporate offices, software services, offices of commercial undertakings and companies petrol bunk, restaurants, lodges, nursing homes, cinema theatres, banks, clubs run on commercial basis. Storage and service facilities incidental to the sale of merchandise and located in the same building shall be included under this
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 15
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4299
+Text:
+Building Bye-Laws – 2003 15 3.10 Exemptions for ground rent - Ground rent may be exempted in the following cases, namely (1) individual residential bungalows with front set back of 6 metres and more with coverage of not more than 55 per cent. (2) schools, colleges and other in stitutions with a front set back of 8 meters and more with coverage of not more than 33.33 per cent. (3) religious and cultural buildings with a front set back of 8 meters and more with coverage of not more than 45 per cent. (4) heavy industries and Government buildings wi th large extents of land capable of storing the building materials within the periphery of the property. Note: Exemption shall be granted only on producti on of undertaking from the applicant on a stamped paper of Rs. 30 that the Corporation land, footpath and road will not be used for stocking building materials as well as depositi ng debris and in case of violation of this condition, they shall be liable to pay the groun d rent at the normal
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 21
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4337
+Text:
+Building Bye-Laws – 2003 21 9.0 OPEN SPACES, COVERAGE AND FLOOR AREA RATIO. 9.1 Open spaces – Every room intended for human habitation shall abut on an interior or exterior open space or open verandah open to such interior or exterior open space. 9.2 Exterior open spaces/ set backs, coverage, floor area ratio, numbers of floors and heights - The set backs required on all the sides of building/s, maximum plot coverage, maximum FAR, maximum number of floors, maximum height of buildings that are permissible for different dimensioned sites and widths of roads are set out in Tables 4, 5 and 6 given below.
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 54
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4345
+Text:
+Building Bye-Laws – 2003 54 houses, kalyana mantapas, banks, cinema theaters. power required for air conditioners, lifts and computers shall be excluded from the HP specified. 1.2.2.2 Uses that are permissible under special circumstances – Automobile workshops, garages, storages, service of industrial establishments employing not more than 10 labourers and manufacturing units with not more than 20 HP in major business area and in district shopping ce ntre and uses permitted or permissible under special circumstances in the resid ential zone except those specifically prohibited therein. 1.2.3 Commercial (wholesale business) zone 1.2.3.1 Uses that are permissible - Same as in the case of retail business zone and service industries with power upto 20 HP, except residential buildings. 1.2.3.2 Uses that are permissible under special circumstances– Same as in the case of retail business zone with power upto 50 HP (except residence, and hospitals) storage of inflammable materials, junk yards,
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 19
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4543
+Text:
+Building Bye-Laws – 2003 19 PART III GENERAL BUILDING REQUIREMENTS 7.0 Requirements of building sites 7.1 No piece of land shall be used as a site for the construction of buildings under the following circumstances: a) if the site is not drained properly or is incapable of being well drained; b) if the Authority considers t hat the site is insanitary or it is dangerous to construct a building on it; c) if the building is proposed on any area fill ed up with filthy and offensive matter without a certificate from the Health Officer and Corporation Engineer to the effect that it is fit to be built upon from health and sanitary point of view; d) if the site is within a distance of nine me ters from the water spread area of a tank at full tank level; e) if the owner of the building has not shown to the satisfaction of the Authority that all the measures required to safeguard the construc tion from constantly getting damp are being taken.; f) if the building is for an office or public buildi
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 9: What are the parking space requirements?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 49
+Chunk: 0
+Clause: None
+Cosine Distance: 0.2943
+Text:
+- 48 - CHAPTER 8.0: PARKING REQUIREMENTS AND NORMS Table 23: Parking requirements for various uses: Sl. No Type of use One car parking of 2.5m x 5.5m each shall be provided for every 1 Theaters and Auditoriums except Educational Institutions. 25 seats of accommodation subject to minimum of 20 2 Retail Business ( shops, Shopping complexes, Malls, etc) 50sqm of floor area 3 Multiplex integrated with shopping 40sqm of floor area plus requirement of parking according to Cinematographic act 4 Wholesale and Warehouse buildings 150sqm plus 1 lorry parking space measuring 3.5 m x 7.5 m. 1 additional for every 500sqm or part thereof 5 Restaurant establishment servicing food and drinks and such other establishment 75sqm of Floor area 6 Lodging establishments, hotels and Tourist homes 80 sq.m of Floor area. 7 For star hotels For every 2 rooms. Additional 10% of the total requirement shall be reserved as parking for visitors. 8 Office buildings (Govt/Semi-Govt.& Pvt) 50sqm of Floor area 9 Hostels
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 35
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3247
+Text:
+Building Bye-Laws – 2003 35 4) Location of slaughter houses, butcheries and other areas of activities like garbage dumps which would attract high flying birds like eagles, hawks etc., shall not be permitted within a radius of 10 kilometres. from the aerodrome reference point. 16.0 Parking space - Adequate space for the parking of vehicles shall be provided in the sites as per standards given in Table 13 subject to the following stipulations. a) Each off street car parking space prov ided for motor vehicles shall not be less than 18 sq.mtrs (3 meters x 6 meters). For motor cycles and scooters, each parking space shall not be less than 2.5 sq.mtrs. (1.25 meters x 2 meters) and for cycles it shall not be less than 1.5 sq.metres. (0.75 meters x 2 meters). b) Off street car parking space shall be prov ided with adequate vehicular access to a street and areas of drives of not less than 2.5 mtr. wide, aisles and such other provisions required for adequate monitoring of vehicles shall be exclu
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 35
+Chunk: 1
+Clause: None
+Cosine Distance: 0.3325
+Text:
+treet and areas of drives of not less than 2.5 mtr. wide, aisles and such other provisions required for adequate monitoring of vehicles shall be exclusive of the parking space stipulated in these bye-laws. c) No parking space shall be insisted upon in the intensely developed area of the floor space upto 100 sq.meters. d) In case of non-high rise buildings parking space may be provided in the set back, where the set- back is 6 meters. In such cases, the minimum margin of 3 meters shall be kept free from the building. e) In case of high rise buildings parking space may be provided in the set back after leaving a minimum setback of 6 Mtrs alroun d the building to enable movement of Fire Tender. f) Alternate means of parking such as terr ace parking, multi stage parking, parking silos may be permitted, subject to production of NO C’s from the Authorities (in case of high rise buildings). In such cases, a clear height of 3.6 Meters in the basement floor has to be provided, and the space to
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 49
+Chunk: 1
+Clause: None
+Cosine Distance: 0.3652
+Text:
+ional 10% of the total requirement shall be reserved as parking for visitors. 8 Office buildings (Govt/Semi-Govt.& Pvt) 50sqm of Floor area 9 Hostels Professional college hostels: 1 for every 5 rooms and others: 1 for every 10 rooms. 10 Industrial Buildings 100sqm of floor area plus 1 lorry space measuring 3.5 m x 7.5 m for every 1000 sq.mt or part thereof 11 Nursing homes 50sqm of Floor area 12 Hospitals 100sqm of Floor area 13 Multi- dwellings Units A. Dwelling unit measuring more than 50 sq.m up to 150 sq.m of floor area. Additional 1 car park for part thereof, when it is more than 50% of the prescribed limit. B. Additional car parking for each two Dwelling units, if the DU is less than 50 sq.mt C. 10 % of additional parking shall be kept for visitors car parking. 15 Kalyana mantaps, Convention centers 50sqm of Floor area. 16 Recreational clubs 50sqm of Floor area. 17 Educational buildings 150sqm of Floor area 18 Other Public and Semi-Public Building s 100sqm of Floor area Note: Add
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 23
+Chunk: 2
+Clause: None
+Cosine Distance: 0.3755
+Text:
+minimum setback between the basement and property boundary is minimum 2.0 m. iv. Basement floors up to a maximum of 5 (five) levels may be permitted for car parking. v. Permissible uses in the Basement for buildings other than 3 star and above category: • Dark rooms for X ray and storage of light sensitive materials • Bank Safes/ Strong room included in the FAR • Air condition handling units/equipment, utilities and services connected with the building. • Parking vi. In case of 3 star and above category of hotels, the spare area in the basement after catering to the requirement of parking facilit ies may be allowed to be used for other purposes incidental to the running of the hotel, such as; health club, shopping arcade, dining area, with or without kitchen facilities, with gas cylinder, administrative office, gym rooms, banquet/conferencing facility, sw imming pool, discothèque etc. subject to reckoning of the same for FAR calculations. vii. Parking area if misused is liable to be mu
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 10: What are the requirements for access roads?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 23
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3919
+Text:
+- 22 - 3.8) Means of access: i. The means of exclusive access which would be other than through public roads or streets shall not be more than 30.0 m in length from the existing public road and the minimum width of such access shall be 3.5 m. If the width of access road is less than 3.5 mtrs, then max floor area permitted in such cases shall not exceed 150 sq mtrs and 50 sq mtrs in residential and commercial zones respectively irrespective of the sital area. ii. FAR and height of the building shall be regulated according to the width of public street or road only. iii. The means of exclusive access which would be other than through public roads or streets having more width than the public road or street, but less than 30.0 m in length, then width of the public road or street shall be considered for reckoning FAR. iv. Access rights needs to be obtained before applying for any sanction/permission for development. Documents to support the rights obtained needs to be submitted along with t
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 20
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4161
+Text:
+.1 To provide a space for locating the di stribution transformers and associated equipment as per KERC (ES & D) code leaving 3.0 mtrs from the building within the premises where the specified load is 25KW or more and also in MS Buildings. 8.0 Means of access. 8.1 The means of exclusive access other than th orough public roads and streets, shall not be of more than 30 meters in length from a public road or street. The minimum width of such access shall be 3.5 meters. F.A.R. and height of buildings coming up on such plots connected by means of exclusive access sha ll be regulated according to the width of public street or road. If the means of acce ss exceeds 30.00 mtrs in length, FAR shall be regulated with reference to the width of such access road. Construction of buildings on plots with common access / lanes from the public road / street shall be regulated according to the width of such common access roads / lanes. 8.2 Existing conservancy lanes are not allowed to be used as means of
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 20
+Chunk: 2
+Clause: None
+Cosine Distance: 0.4364
+Text:
+t shall be regulated according to the width of such common access roads / lanes. 8.2 Existing conservancy lanes are not allowed to be used as means of access to the properties. 8.3 No building shall be erected so as to obstru ct the means of access of any other building. 8.4 No person shall erect a building so as to encroach upon the means of access. 8.5 The means of access shall be clearly shown in the plans submitted indicating the width, length from the public road, width of the public road from which the access is taken etc. 8.6 Every such means of access shall be dr ained and lighted to the satisfaction of the Authority and manhole covers or other drain age, water or any other fittings, laid in such means of access shall flush with the finished surface level so as not to obstruct the safe movement. 8.7 The existing width of the means of a ccess shall not be reduced in any case.
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 44
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4826
+Text:
+- 43 - CHAPTER 6: SUBDIVISION REGULATIONS 6.1) RESIDENTIAL a. Road widths: The minimum width of road shall not be less than 9.0 m and the road widths shall not be less than the plot widths facing the respective road. Every Fourth road in a layout shall have a minimum of 12.0 m width. b. Area for Residential development: Apart from the provision for amenities and open spaces, the area for residential development shall be up to a maximum of 55 % of the total land area. c) Parks / Open spaces and Playgrounds: Parks / Open spaces and Playgrounds shall not be less than 15 % of the total land area. This shall be relinquished to the Authority (free of cost and free of encumbrance) and if required, the authority may handover the area for maintenance to the resident’s welfare association. If the land is not maintained up to the satisfaction of the authority, it shall be resumed back by the authority. d) Civic amenities and Roads: i) After making provision for Parks and roads in the layout, the
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 46
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4983
+Text:
+d), if the Authority so desires. 2. A minimum 5 % of total plot area shall be provided for Civic amenities and the owner or developer shall develop such civic amenities which finally shall be handed over to the local residents association for maintenance. The mode of such handing over shall be decided by the authority. 3. FAR is calculated on the total land area after deducting Civic amenity site. 4. Parking area requirements shall be as applicable vide Table no: 23 5. Roads as shown in the Revised Master Plan 2015 shall be incorporated within Plan and shall be handed over to the authority free of cost. Table 20: FAR & Ground coverage for Residential development plan on a site area over 20,000sqm. Road width (m) Coverage FAR Less than 12.0 60% 2.00 Above 12 and up to 18 55% 2.25 Above 18 and up to 24 55% 2.50 Above 24 m and up to 30 50% 3.00 Above 30.0 m 50 % 3.25
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 11: What are the building plan approval requirements?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 64
+Chunk: 2
+Clause: None
+Cosine Distance: 0.3451
+Text:
+engineer will be entitled to submit: i) All plans and related information with necessary certificat es connected with building licence. ii) Structural details and calculations of buildings on plots upto 500 sq.m. and upto 4 storeys or 14 metre in height. iii) Service plans for all buildings.
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 7
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3539
+Text:
+6 CHAPTER 7: Regulations for Residential and Non Residential Development Plan 7.10 Regulations for Residential Development Plan 45 7.20 Regulations for Non Residential Development Plan & Flatted Factories 46 CHAPTER 8: Parking Requirements and Norms …………………………….. 48 CHAPTER 9: Fire protection Requirements & Safety Measures against Earthquake .……………………… 50 CHAPTER 10: Transfer of Development Rights (TDR) ………………………. 53 APPENDIX I: Building lines specified for various Roads 57 APPENDIX II: Affidavit to be submitted by the Architect/Engineer/Planner… 60 APPENDIX III: TDR application format. 61 APPENDIX IV: DRC register format. 62 APPENDIX V: Undertaking by the applicant. 63 APPENDIX VI: Affidavit to be given by the owner. 64 APPENDIX VII : DRC utilisation form. 65 APPENDIX VIII: Development Rights Certificate. 68
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 16
+Chunk: 0
+Clause: None
+Cosine Distance: 0.37
+Text:
+Building Bye-Laws – 2003 16 4.1.2. While granting licence, the Authority shall impose a condition that atleast two trees shall be grown in the sites where the sital area ex ceeds 200 sqm. in the interest of improving the environment of the area. 4.1.3. The Authority may require the owner, builder, or any other person responsible for construction of a building to erect and maintain during construction such barricading as considered necessary to prevent dust, debris and other materials endangering the safety of people/structures, etc., in and around the site. 4.1.4. Revised plans – (i) Where plans have been scrutinised and modifications or objections have been pointed out by the Authority, the applicant shall modify the plans to comply with the modifications or objections raised and resubmit the plans. The plans submitted for approval shall not contain superimposed corrections. (ii) A plan once sanctioned may be revised or modified by the Authority on payment of additional fee for scruti
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 16
+Chunk: 2
+Clause: None
+Cosine Distance: 0.3802
+Text:
+construction as per approved plan as certified by the Corporat ion. If the construction is not as per approved plan this deposit amount would be forfeited. 4.4 Special powers of the Authority : The Authority may direct the owner (i) to change the location of the proposed building, (ii) to provide open space or ventila tion, [iii] to use specified materials for construction, if such measures are considered necessary keeping in view the existing or proposed power lines, water and sewage lines passing through the site, or due to any proposed widening of the road or formation of new roads passing through the site; which shall not be inconsistant with the Act and the development plan; 5.0 PROCEDURE AFTER GRANT OF LICENCE 5.1 Responsibility of owner – The granting of licence, approval of the plan and specifications, or inspections made by the Authority shall not in any way relieve the owner of a building from full responsibility for carrying out the work in accordance with the requirements
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 9
+Chunk: 1
+Clause: None
+Cosine Distance: 0.404
+Text:
+certificate of the property, issued a competent authority. 3.2.(2) Property card and latest assessment book extract – A copy of the property card along with the sketch issued by the De partment of Survey and Settlement, and Land Records (City Survey) and latest assessment book extract issued by the Corporation indicating the measurements of the property . 3.2.(3) Upto date tax paid receipt – The receipt for having paid up to date property tax to the Corporation shall be enclosed. 3.2.(4) Previously sanctioned plan - Attested copy of the previously sanctioned plan if the application is for addition/ alteration/modification to the existing building. If the applicant for any reason cannot produce the previously sanctioned plan of the existing building, then in such cases the plan of the existing building along with site plan, etc., will have to be submitted. 3.2.(5) Drawings – The following drawings in ammonia prints. One drawing on tracing cloth / polyester tracing film shall be enclose
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 12: What restrictions apply to plot dimensions?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 32
+Chunk: 1
+Clause: None
+Cosine Distance: 0.5116
+Text:
+ildings. TABLE 11 (Bye-law 13.2) REGULATIONS FOR FLATTED FACTORIES 1. Minimum plot area : 1000 sq. mtrs. 2. Maximum coverage : 40% 3. Maximum F.A.R. : 1.50 upto 9 mtrs. road width, and 1.75 above 9 mtrs. road width 4. Minimum setbacks : a. Front 8.0 mtrs. b. Rear 4.5 mtrs. c. Sides 4.5 mtrs. Note: If the height of the building exceeds 9.5 metres, the minimum set back shall be the higher of the two in Tables 5 and 11. 14. Exemptions in open space - The following exemptions in open space shall be permitted. 14.1 Projections - (1) Every open space provided either interior or exterior shall be kept free from any structure thereon and shall be open to sky and no cornice, roof or weather shade or chajja more than 0.75 metres wide or 1/3 of open space whichever is less shall over-hang or project over the said open space. Thes e projections shall be permitted within one’s own plot boundaries.
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 20
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5293
+Text:
+- 19 - CHAPTER.3.0: REGULATIONS APPLICABLE TO ALL ZONES 3.1 SETBACKS: Front and Rear setback shall be with reference to depth of the site. i. The left and right setback shall be with reference to width of the site. ii. Up to 11.5 m height, the setbacks are calculat ed as percentages of depth and width of the plot, as per Table.8. iii. Table.9 shall be referred for Buildings which are more than 11.5 m in height to fix the setbacks. iv. In case of irregular plots, the setbacks are to be calculated according to the depth or the width at the point where the depths or widths are varying and average setbacks shall not be considered in such cases. v. The setbacks shall be provided in the owners plot. Public open spaces or conservancies should not be considered as setbacks. vi. Wherever the building lines are fixed, in su ch cases the front setback or the building line which ever is higher shall be considered as the front setback to the building. vii. In case of corner site, both the sides fac
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 20
+Chunk: 2
+Clause: None
+Cosine Distance: 0.55
+Text:
+ar side Up to 6.0 1.0 m 0 1.0 m 0 Above 6.0 up to 9.0 1.0 m on all sides Above 9.0 m 8 % 8% 12% 8 %  For plot over size of 4000 sq.m, a minimum setback of 5.0 m on all sides shall be insisted.
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 34
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5722
+Text:
+- 33 - 4.6 COMMERCIAL AXES 4.6.1) Description The major and minor roads which have commer cial activities along them are recognized as commercial axes and are included within the zone. As these are part of the residential zone through which they pass and the regulati ons applicable shall be that of the main zone in which they are located with an exception to the permissible land uses of commercial axes. 4.6.2) Regulations i) Permissible land use category:  If the plot size is more than 240 sq.m and faces a road width up to 15.0 m, C2, I-2 & T2 uses in addition to uses allowable in the respective zone are permissible  If the plot size is more than 240 sq.m and faces a road width 15.0 m and above, C3, T2 and I-2 uses in addition to uses allowable in the respective zone are permissible. ii) FAR and Ground Coverage The FAR and Ground Coverage Regulations for the Commercial Axes will be same as that of the table for the surrounding zone that it passes through e.g. a Commercial Axes passin
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 35
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5738
+Text:
+- 34 - 4.7 INDUSTRIAL [I (General)] 4.7.1) Description This zone supports the establishment of all types of industries. 4.7.2) Regulations i) Permissible land uses;  Main land use category: I-5  Ancillary land use category: R, C4, U2 & T3  Ancillary use allowable up to 10 % of the total land area.  If the road width is more than 15 mtrs, T3 may be allowed as main land use. Table.16: FAR and Ground Coverage in Industrial (General) Setbacks Sl.no Size of the Plot (sq.m ) Ground cover FAR Front Rear and sides 1. Up to 500 75% 1.50 4.50 4.50 2. Above 500 up to 1000 60% 1.25 4.50 4.50 3. Above 1000 up to 3000 50 % 1.00 6.00 6.00 4 Above 3000 45 % 1.00 10.0 8.00 iii) Notes: a) After leaving minimum setbacks as per the above table if the remaining portion of the plot cannot be used for erecting a meaningful building, the Authority may insist for set backs as in table.8 or table.9 b) All lands/sites allotted by government agencies like KIADB, KSIIDC etc, for industrial use shall not be per
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 13: What are the rules for building extensions?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 16
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5065
+Text:
+Building Bye-Laws – 2003 16 4.1.2. While granting licence, the Authority shall impose a condition that atleast two trees shall be grown in the sites where the sital area ex ceeds 200 sqm. in the interest of improving the environment of the area. 4.1.3. The Authority may require the owner, builder, or any other person responsible for construction of a building to erect and maintain during construction such barricading as considered necessary to prevent dust, debris and other materials endangering the safety of people/structures, etc., in and around the site. 4.1.4. Revised plans – (i) Where plans have been scrutinised and modifications or objections have been pointed out by the Authority, the applicant shall modify the plans to comply with the modifications or objections raised and resubmit the plans. The plans submitted for approval shall not contain superimposed corrections. (ii) A plan once sanctioned may be revised or modified by the Authority on payment of additional fee for scruti
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 27
+Chunk: 2
+Clause: None
+Cosine Distance: 0.5221
+Text:
+force of these bye-law s and which are facing the roads proposed for widening in the development plan, the upper floors shall be limited to the proposed line of road widening or building line, if any prescribed. 9.8 Additions, alterati ons and modifications : i) Any additions, alterations & modifications to existing buildings shall be permitted in accordance with these bye-laws. ii) In case of the buildings which are existing prior to coming into force of these regulations, upper floors may be pe rmitted according to the existi ng set-backs only, but limiting the F.A.R. and the number of floors according to the present bye-laws, subject to production of the foundation certificate as prescribed in the bye-law no. 3.2 (9). 9.9 Interior open spaces – The whole of one side of one or more rooms intended for human habitation and not abutting on any of the front, rear or side open spaces shall abut on an interior open space of minimum width of 3 m. 9.10 Limitations of floor area and covered a
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 9
+Chunk: 0
+Clause: None
+Cosine Distance: 0.535
+Text:
+Building Bye-Laws – 2003 9 PART II ADMINISTRATION 3.0 BUILDING LICENCE 3.1 Licence – Every person who intends to erect or re-erect a building or make material alterations or cause the same to be done, is required to obtain a licence from the Authority. 3.2 Application and documents to be submitted with the application - Every person who intends to erect or re-erect or alter a building, including temporary structures for the purpose of exhibitions, trade fair or ci rcus or execute any of the works other than repairs, as specified in Sections 299, 304 or 312, of the Act, shall give an application in writing to the Authority in the Form set forth in Schedule II and such application shall be accompanied by plans, documents and information as required hereunder. 3.2.(1) Title deed/possession certificate – A copy of the title deed or possession certificate of the property, issued a competent authority. 3.2.(2) Property card and latest assessment book extract – A copy of the property card alo
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 11
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5365
+Text:
+Building Bye-Laws – 2003 11 m) The drawing must be fully dimensioned so as to have easy, quick and accurate measurements. 3.2.(6) Licence fee receipt – Receipt for having paid to the Corporation fund licence fee as prescribed in bye-law 3.7.1 and 3.7.2. 3.2.(7) Indemnity bond on stamp paper as prescribed by the Authority. 3.2.(8) Schedule II of the National Building Organisation duly filled in duplicate as per Schedule XIII of these bye-laws. 3.2.(9) Foundation certificate – Foundation certificate which cert ifies the fitness of foundation to bear the additional building load in respect of old buildings above which new floors are proposed to be added which is issued by a Registered Architect / Engineer / Supervisor specified in Schedule IV of these bye-laws. 3.2.(10) Other certificates – Certificates from the following authorities, wherever applicable. Agency In respect of 3.2(10.1) Bangalore Development Authority a) Commencement certificate for the change of land use in the Developmen
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 10
+Chunk: 0
+Clause: None
+Cosine Distance: 0.5492
+Text:
+Building Bye-Laws – 2003 10 e) the position of the adjacent pl ots whether vacant or built up; f) the area to be occupied by the propo sed building and the set backs proposed for proper air and ventilation; g) the nature of the ground on which the proposed building is to be erected, whether natural like, rocky, gravelly, clayey, sandy etc., or made up ground. In the case of made up ground, the time when it was so made up and the materials used in making it up shall be indicated. In case of sloping ground where the gradient exceeds 5% (1:20) block levels have to be furnished in the site plan; h) any physical features such as wells, drains, transmission lines, etc.; i) natural features like existi ng trees, ridges, valleys etc., j) block levels in cases where basement/cellar floors are proposed below ground level; k) such other particulars, as may be specified by the Authority. 3.2.(5.3) Building plan – Building plan drawn to a scale of not more than 1:100 showing the following particula
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 14: What regulations apply to corner sites?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 20
+Chunk: 0
+Clause: None
+Cosine Distance: 0.467
+Text:
+- 19 - CHAPTER.3.0: REGULATIONS APPLICABLE TO ALL ZONES 3.1 SETBACKS: Front and Rear setback shall be with reference to depth of the site. i. The left and right setback shall be with reference to width of the site. ii. Up to 11.5 m height, the setbacks are calculat ed as percentages of depth and width of the plot, as per Table.8. iii. Table.9 shall be referred for Buildings which are more than 11.5 m in height to fix the setbacks. iv. In case of irregular plots, the setbacks are to be calculated according to the depth or the width at the point where the depths or widths are varying and average setbacks shall not be considered in such cases. v. The setbacks shall be provided in the owners plot. Public open spaces or conservancies should not be considered as setbacks. vi. Wherever the building lines are fixed, in su ch cases the front setback or the building line which ever is higher shall be considered as the front setback to the building. vii. In case of corner site, both the sides fac
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 27
+Chunk: 0
+Clause: None
+Cosine Distance: 0.486
+Text:
+- 26 - CHAPTER 4: REGULATIONS FOR MAIN LAND USE ZONES
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 25
+Chunk: 1
+Clause: None
+Cosine Distance: 0.5078
+Text:
+Regulations. This table is appended as Schedule X to these bye-laws. In such cases, the front set back or the building line which is higher of the two shall be provided. Note 5 : In the case of corner sites both the sides facing the road shall be treated as front side and regulations applied accordingly to maintain the building line on these roads and to provide better visibility. Note 6 : In the case of a building facing more than two roads, the plot should be considered as corner plot taking two wider roads into consideration. Note 7 : In the case of sites facing roads both in front and rear, both the sides facing roads should be treated as front and other two si des not facing roads should be treated as right and the setbacks be applied accordingly. Note 8 : In case where the plinth of the building is not parallel to the property line, the setbacks shall not be less than the specified setbacks at any given point on any side. Note 9 : In case of irregular plots the set-backs are to b
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 46
+Chunk: 0
+Clause: None
+Cosine Distance: 0.514
+Text:
+- 45 - 6.3 REGULATIONS FOR NON RESIDENTIAL LAYOUT PLAN: Sanction of layout plans for non residentia l purpose shall be subject to the following conditions: i. 10 % of Total area shall be earmarked for Park and Civic amenities (ratio to be decided by authority). ii. Minimum width of road shall not be less than 12.0 m. iii. 5 % of the total area shall be reserved for parking purpose. iv. Parks, CA and roads shall be handed over to Authority as per section 32 of BDA Act, 1976. CHAPTER 7: REGULATIONS FOR RESIDENTIAL DEVELOPMENT PLANS AND NON RESIDENTIAL DEVELOPMENT PLANS. 7.1 Regulations for Residential Development Plan: 1. 10 % of the land shall be reserved for Park & Open space. The open space (park) shall be relinquished to the authority free of cost and the same may be allowed to be maintained by the local residents association (registered), if the Authority so desires. 2. A minimum 5 % of total plot area shall be provided for Civic amenities and the owner or developer shall develop su
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 34
+Chunk: 1
+Clause: None
+Cosine Distance: 0.5279
+Text:
+ge Regulations for the Commercial Axes will be same as that of the table for the surrounding zone that it passes through e.g. a Commercial Axes passing through a Residential (Main) Zone shall avail FAR and Ground Coverage of a Residential (Main) Zone. iii) Note; a) Setbacks shall be in accordance with Table.8 or Table.9 depending on the height of the proposed building and the plot size. b) TDR is applicable as per rules. 4.6.3) Parking As applicable vide Table no: 23
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 15: What are the rules for basements in buildings?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 38
+Chunk: 1
+Clause: None
+Cosine Distance: 0.3302
+Text:
+f, shall be provided. 18.10 The walls and the floors of the basement s hall be watertight and shall be so designed that the hydraulic pressure of the sub-soil water level is fully arrested. 18.11 Necessary arrangements shall be ma de to prevent moisture on walls. 18.12 No place in a basement floor shall be more th an 11.25 Mtrs away from the exit in case of residential / educational / institutional / hazardous buildings, 15 mtrs for commercial buildings and 22.5 mtrs for industrial buildings. 18.13 One additional basement for all buildings exceeding five floors may be permitted for parking and machines used for services and utilities of the buildings. The maximum number of basements in such buildings shall be two. 18.14 Two additional basements in case of three star and above hotels may be permitted for parking and machines used for service and ut ilities of buildings. The maximum number of basements in such buildings shall be three. 19.0 Plinth. 19.1 The height of the plinth at the gr
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 38
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3333
+Text:
+Building Bye-Laws – 2003 38 18.8 The basement floor shall not normally be part itioned. If the ventilation standards as laid down in sub-clause (ii) of bye-law 18.7 ar e met with, the partition of basement may be permitted. 18.9 Adequate protection against fire shall be pr ovided to the basement storey. The roof separating the basement and the floor above shall be constructed of materials like RCC or such other material which can provide resistance against fire for atleast two hours. Where a basement floor is permitted in apartment houses (residential flat) and hotels, the owner shall display the basement plan at the entrance. Thimbles (metal rings to receive wires/ropes) shall be provided in the roof of the basement and their positions clearly indicated on the plan. One fire extinguisher for every 100 sqm. of basement area or part thereof, shall be provided. 18.10 The walls and the floors of the basement s hall be watertight and shall be so designed that the hydraulic pressure of the
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 10
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3358
+Text:
+Building Bye-Laws – 2003 10 e) the position of the adjacent pl ots whether vacant or built up; f) the area to be occupied by the propo sed building and the set backs proposed for proper air and ventilation; g) the nature of the ground on which the proposed building is to be erected, whether natural like, rocky, gravelly, clayey, sandy etc., or made up ground. In the case of made up ground, the time when it was so made up and the materials used in making it up shall be indicated. In case of sloping ground where the gradient exceeds 5% (1:20) block levels have to be furnished in the site plan; h) any physical features such as wells, drains, transmission lines, etc.; i) natural features like existi ng trees, ridges, valleys etc., j) block levels in cases where basement/cellar floors are proposed below ground level; k) such other particulars, as may be specified by the Authority. 3.2.(5.3) Building plan – Building plan drawn to a scale of not more than 1:100 showing the following particula
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 37
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3631
+Text:
+Building Bye-Laws – 2003 37 parallel to the rounded off or cut-off boundary upto the height of the ground floor. In such cases the FAR is to be allowed for the total area of the plot. Entry or exit for the buildings shall be provided away from the point of intersection. 18.0 Basement floor 18.1 a) Basement floors shall not be used for purposes other than parking and for locating machines used for service and utilities of buildings. b) Strong rooms only in case of bank buildings. The area to be used for this purpose shall be reckoned for FAR purposes. c) Installation of Radiology and X ray equipm ent only in case of Hospital buildings having a capacity of more than 50 beds without office. The area to be used for this purpose shall be reckoned for FAR purposes. 18.2 One basement in the intensely populated are (A Zone) be permitted only for parking purpose, if the area of the premises is 500 sq. mtrs and above with a minimum road width of 12m. 18.3 When a basement floor is proposed for ca
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 37
+Chunk: 3
+Clause: None
+Cosine Distance: 0.3659
+Text:
+ight. ii) Adequate ventilation shall be provided fo r the basement storey. The standard of ventilation shall be the same as required by the particular occupancy according to these bye-laws. Any deficiency may be met by providing adequate mechanical ventilation in the form of blowers, exhaust fans, air-conditioning plants, etc., iii) The basement storey s hould not project more than 1.00 mt. above the average Ground level. iv) Adequate arrangements shall be made to ensure that surface drainage does not enter into a basement storey
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 16: What are the requirements for open spaces around buildings?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 21
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3153
+Text:
+Building Bye-Laws – 2003 21 9.0 OPEN SPACES, COVERAGE AND FLOOR AREA RATIO. 9.1 Open spaces – Every room intended for human habitation shall abut on an interior or exterior open space or open verandah open to such interior or exterior open space. 9.2 Exterior open spaces/ set backs, coverage, floor area ratio, numbers of floors and heights - The set backs required on all the sides of building/s, maximum plot coverage, maximum FAR, maximum number of floors, maximum height of buildings that are permissible for different dimensioned sites and widths of roads are set out in Tables 4, 5 and 6 given below.
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 41
+Chunk: 2
+Clause: None
+Cosine Distance: 0.3796
+Text:
+ventilation: Rooms shall have, for admission of light and air, one or more openings, such as windows and ventilators, opening directly to the external air or into an open verandah. Doors are not counted towards the area of openings in walls for lighting and ventilation purposes. 20.11(2) Artificial ventilation: Where the light and ventilation requirements are not met through daylight and natural ventilati on, the same shall be ensured through artificial lighting and mechanical ventilation, as per Part V III Building Service section I, Lighting and ventilation of National Building Code of I ndia brought out by the Indian Standards Institution. The provisions contained in the latest version of the Code shall be made use of at the time of enforcement of the bye-laws. 20.11(3) Area of openings: a) Minimum aggregate area of openings excluding doors, shall not be less than 1/6th of the floor area in the case of residential buildings. In the case of other public buildings like business house
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 51
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4066
+Text:
+nt for human occupancy shall be provided with exits sufficient to permit safe escape of its occupants in ca se of fire or other emergency for which the exits shall conform to the following: i. Types. – Exits should be horizontal or vertical. A horizontal exit may be a door-way, a corridor, a passage-way to an internal stairway or to an adjoining building, a ramp, a verandah, or a terrace which has access to the street or to the roof of a building. A vertical exit may be a staircase or a ramp, but not a lift. ii. General requirement – Exits from all the parts of the building, except those not accessible for general public use, shall- a. provide continuous egress to the exterior of the building or to an exterior open space leading to the street; b. be so arranged that, except in a residential building, they can be reached without having to cross another occupied unit; c. be free of obstruction; d. be adequately illuminated; e. be clearly visible, with the routes reaching them clearly mar
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 32
+Chunk: 1
+Clause: None
+Cosine Distance: 0.425
+Text:
+ildings. TABLE 11 (Bye-law 13.2) REGULATIONS FOR FLATTED FACTORIES 1. Minimum plot area : 1000 sq. mtrs. 2. Maximum coverage : 40% 3. Maximum F.A.R. : 1.50 upto 9 mtrs. road width, and 1.75 above 9 mtrs. road width 4. Minimum setbacks : a. Front 8.0 mtrs. b. Rear 4.5 mtrs. c. Sides 4.5 mtrs. Note: If the height of the building exceeds 9.5 metres, the minimum set back shall be the higher of the two in Tables 5 and 11. 14. Exemptions in open space - The following exemptions in open space shall be permitted. 14.1 Projections - (1) Every open space provided either interior or exterior shall be kept free from any structure thereon and shall be open to sky and no cornice, roof or weather shade or chajja more than 0.75 metres wide or 1/3 of open space whichever is less shall over-hang or project over the said open space. Thes e projections shall be permitted within one’s own plot boundaries.
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 42
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4255
+Text:
+Building Bye-Laws – 2003 42 No. of storeys Size of ventilation shaft in sqm. Minimum width in mts. Upto 2 1.2 0.9 Upto 4 1.8 1.2 Upto 6 4.0 1.5 Upto 8 5.4 1.8 Upto 10 8.0 2.4 11 and above 9.0 3.0 21.0 Exit requirements for high rise buildings, public and industrial buildings 21.1 General 21.1.1 Every building meant for human occupancy s hall be provided with exits sufficient to permit safe escape of occupants, in case of fire or other emergency. 21.1.2 In every building for multi family dwelli ngs and all places of assembly, exits shall comply with the minimum requirements of these bye-laws. 21.1.3 All exits shall be free of obstructions. 21.1.4 No building shall be altered so as to reduce the number, and size of exits to less than that required. 21.1.5 Exits shall be clearly visible Routes to reach the exits shall be clearly marked and signs posted so as to guide the persons using each floor. 21.1.6 Wherever necessary, adequate and cont inuous illumination shall be provided for exits.
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 17: What zoning restrictions apply to a property?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 27
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3765
+Text:
+- 26 - CHAPTER 4: REGULATIONS FOR MAIN LAND USE ZONES
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 46
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3971
+Text:
+- 45 - 6.3 REGULATIONS FOR NON RESIDENTIAL LAYOUT PLAN: Sanction of layout plans for non residentia l purpose shall be subject to the following conditions: i. 10 % of Total area shall be earmarked for Park and Civic amenities (ratio to be decided by authority). ii. Minimum width of road shall not be less than 12.0 m. iii. 5 % of the total area shall be reserved for parking purpose. iv. Parks, CA and roads shall be handed over to Authority as per section 32 of BDA Act, 1976. CHAPTER 7: REGULATIONS FOR RESIDENTIAL DEVELOPMENT PLANS AND NON RESIDENTIAL DEVELOPMENT PLANS. 7.1 Regulations for Residential Development Plan: 1. 10 % of the land shall be reserved for Park & Open space. The open space (park) shall be relinquished to the authority free of cost and the same may be allowed to be maintained by the local residents association (registered), if the Authority so desires. 2. A minimum 5 % of total plot area shall be provided for Civic amenities and the owner or developer shall develop su
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 44
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4167
+Text:
+- 43 - CHAPTER 6: SUBDIVISION REGULATIONS 6.1) RESIDENTIAL a. Road widths: The minimum width of road shall not be less than 9.0 m and the road widths shall not be less than the plot widths facing the respective road. Every Fourth road in a layout shall have a minimum of 12.0 m width. b. Area for Residential development: Apart from the provision for amenities and open spaces, the area for residential development shall be up to a maximum of 55 % of the total land area. c) Parks / Open spaces and Playgrounds: Parks / Open spaces and Playgrounds shall not be less than 15 % of the total land area. This shall be relinquished to the Authority (free of cost and free of encumbrance) and if required, the authority may handover the area for maintenance to the resident’s welfare association. If the land is not maintained up to the satisfaction of the authority, it shall be resumed back by the authority. d) Civic amenities and Roads: i) After making provision for Parks and roads in the layout, the
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 27
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4331
+Text:
+Building Bye-Laws – 2003 27 In the case of high rise buildings, the ramp may be provided in the set back area without affecting the free movement of fire tenders. 9.6 Application of land use : 9.6.1. Where the nomenclature of a road differs from the one mentioned in the district maps of the development plan, the locati on of the site may be considered to determine the land use. 9.6.2. In cases of permitted land use, the Z oning Regulations shall be applied to a building keeping in view the use of the proposed build ing without reference to the land use of the Zone. However, the front set back shall be the higher of the one prescribed for that particular zone or the one prescribed for the use permitted in the zone. Example: If residential permission is granted in a commercial zone, the regulations applicable to residential use only be adopted except maintaining the higher of the front set back applicable either to commercial or residential use. 9.6.3. The land use indicated towards the
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 10
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4346
+Text:
+9 CHAPTER 1: INTRODUCTION 1.1 Spatial extent of land use zoning regulations The regulation applies to the Bangalore Metropolitan Area, also defined as the Local Planning Area (LPA) for the city of Bangalore and its environs as declared under KTCP Act, 1961. The provisions of this document are to be read along with the relevant planning district plans of Revised Master Plan 2015, applicable to va rious areas of the city. The zone delineation and the permissible land uses within zone and respective regulations for land use are properly co-related to achieve orderly growth. The regulations proposed are prospective. The developments that are lawfully established prior to the coming into force of zonal regulations shall be allowed to continue as non confirming uses. 1.2 LAND USE ZONE CATEGORIES A. The entire Local Planning Area is conceptually organized into three main Rings for consideration of zoning and regulations. i. Areas coming within the Core Ring Road : Ring I ii. Areas coming betw
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 18: What building regulations apply to a narrow road?
+==========================================================================================
+
+Rank: 1
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 23
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3698
+Text:
+- 22 - 3.8) Means of access: i. The means of exclusive access which would be other than through public roads or streets shall not be more than 30.0 m in length from the existing public road and the minimum width of such access shall be 3.5 m. If the width of access road is less than 3.5 mtrs, then max floor area permitted in such cases shall not exceed 150 sq mtrs and 50 sq mtrs in residential and commercial zones respectively irrespective of the sital area. ii. FAR and height of the building shall be regulated according to the width of public street or road only. iii. The means of exclusive access which would be other than through public roads or streets having more width than the public road or street, but less than 30.0 m in length, then width of the public road or street shall be considered for reckoning FAR. iv. Access rights needs to be obtained before applying for any sanction/permission for development. Documents to support the rights obtained needs to be submitted along with t
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 20
+Chunk: 2
+Clause: None
+Cosine Distance: 0.386
+Text:
+t shall be regulated according to the width of such common access roads / lanes. 8.2 Existing conservancy lanes are not allowed to be used as means of access to the properties. 8.3 No building shall be erected so as to obstru ct the means of access of any other building. 8.4 No person shall erect a building so as to encroach upon the means of access. 8.5 The means of access shall be clearly shown in the plans submitted indicating the width, length from the public road, width of the public road from which the access is taken etc. 8.6 Every such means of access shall be dr ained and lighted to the satisfaction of the Authority and manhole covers or other drain age, water or any other fittings, laid in such means of access shall flush with the finished surface level so as not to obstruct the safe movement. 8.7 The existing width of the means of a ccess shall not be reduced in any case.
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 20
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4038
+Text:
+.1 To provide a space for locating the di stribution transformers and associated equipment as per KERC (ES & D) code leaving 3.0 mtrs from the building within the premises where the specified load is 25KW or more and also in MS Buildings. 8.0 Means of access. 8.1 The means of exclusive access other than th orough public roads and streets, shall not be of more than 30 meters in length from a public road or street. The minimum width of such access shall be 3.5 meters. F.A.R. and height of buildings coming up on such plots connected by means of exclusive access sha ll be regulated according to the width of public street or road. If the means of acce ss exceeds 30.00 mtrs in length, FAR shall be regulated with reference to the width of such access road. Construction of buildings on plots with common access / lanes from the public road / street shall be regulated according to the width of such common access roads / lanes. 8.2 Existing conservancy lanes are not allowed to be used as means of
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 44
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4174
+Text:
+- 43 - CHAPTER 6: SUBDIVISION REGULATIONS 6.1) RESIDENTIAL a. Road widths: The minimum width of road shall not be less than 9.0 m and the road widths shall not be less than the plot widths facing the respective road. Every Fourth road in a layout shall have a minimum of 12.0 m width. b. Area for Residential development: Apart from the provision for amenities and open spaces, the area for residential development shall be up to a maximum of 55 % of the total land area. c) Parks / Open spaces and Playgrounds: Parks / Open spaces and Playgrounds shall not be less than 15 % of the total land area. This shall be relinquished to the Authority (free of cost and free of encumbrance) and if required, the authority may handover the area for maintenance to the resident’s welfare association. If the land is not maintained up to the satisfaction of the authority, it shall be resumed back by the authority. d) Civic amenities and Roads: i) After making provision for Parks and roads in the layout, the
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 27
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4183
+Text:
+ted except maintaining the higher of the front set back applicable either to commercial or residential use. 9.6.3. The land use indicated towards the road si de of a property shall be the land use for the entire property (one property depth) without ident ifying it for different uses by measuring as per the scale of the maps. 9.6.4. Different uses permitted in a given zone may be allowed in different floors of the building. In such cases, the regulations applicable to the use of the ground floor of the building shall apply to the entire building. When mixed land uses are permitted in the ground floor, the predominent use among them shall be considered as the use of the ground floor. 9.7 Plots facing the roads proposed for widening : Where upper floors are permitted over the existing buildings which are sanctioned prior to the coming into force of these bye-law s and which are facing the roads proposed for widening in the development plan, the upper floors shall be limited to the propos
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 19: Which provisions govern building height and setbacks together?
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 25
+Chunk: 0
+Clause: None
+Cosine Distance: 0.352
+Text:
+Building Bye-Laws – 2003 25 Note 1: The dimensions in British system if any, adopted for the dimensions of plots may be interpreted as follows in Metric system and set backs may be applied accordingly. 20’-0” – 6.0 m 30’-0” – 9.0 m 40’-0” – 12.0 m 50’-0” – 15.0 m 60’-0” – 18.0 m 80’-0” – 24.0 m Note 2 : The open spaces to be provided shall conform to the height necessary to consume the permissible FAR. Note 3: (a) The front and rear set backs shall be with reference to the depth of the site. (b) The left and right set backs shall be with reference to the width of the site. (c) If the height of a building exceeds 9.5 metres, the set backs to be provided shall be higher of the set backs specified in tables 4 and 5. Note 4 : Building lines have been prescribed to certain roads by the Bangalore Development Authority in Table 33 of the Zoning Regulations. This table is appended as Schedule X to these bye-laws. In such cases, the front set back or the building line which is higher of the two
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bda_zoning_regs_rmp2015.pdf
+PDF Page: 20
+Chunk: 0
+Clause: None
+Cosine Distance: 0.359
+Text:
+- 19 - CHAPTER.3.0: REGULATIONS APPLICABLE TO ALL ZONES 3.1 SETBACKS: Front and Rear setback shall be with reference to depth of the site. i. The left and right setback shall be with reference to width of the site. ii. Up to 11.5 m height, the setbacks are calculat ed as percentages of depth and width of the plot, as per Table.8. iii. Table.9 shall be referred for Buildings which are more than 11.5 m in height to fix the setbacks. iv. In case of irregular plots, the setbacks are to be calculated according to the depth or the width at the point where the depths or widths are varying and average setbacks shall not be considered in such cases. v. The setbacks shall be provided in the owners plot. Public open spaces or conservancies should not be considered as setbacks. vi. Wherever the building lines are fixed, in su ch cases the front setback or the building line which ever is higher shall be considered as the front setback to the building. vii. In case of corner site, both the sides fac
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 33
+Chunk: 2
+Clause: None
+Cosine Distance: 0.3671
+Text:
+vicinity of aerodromes, the maximum height of the building shall be as permissible in 15.1 above, or as shown in Table 12 whichever is lower. These shall be regulated by the rules for the construction of buildings in the vicinity of aerodromes by the competent Aerodrome Authority. 15.4 Height exception for the structures on roof: The following appurtenant structures shall not be included in the height of the building. i) Water tanks and their supports, equipments for ventilation, air-conditioning and similar services, lift rooms, roof structures like; stair-case room, pent house, chimneys, parapet walls and other architectural features. ii) The height of parapet wall and architectura l features shall not exceed 1.0 metre and the height of other structures shall not exceed 4.50 meters for claiming the height exemption. iii) The aggregate area of such structures sha ll be limited to the extent prescribed in the bye- law 9.10.3 (d). If this limit is exceeded, t he structures shall be cons
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 33
+Chunk: 3
+Clause: None
+Cosine Distance: 0.3673
+Text:
+rea of such structures sha ll be limited to the extent prescribed in the bye- law 9.10.3 (d). If this limit is exceeded, t he structures shall be considered for reckoning the height of the building.
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 10
+Chunk: 0
+Clause: None
+Cosine Distance: 0.3716
+Text:
+Building Bye-Laws – 2003 10 e) the position of the adjacent pl ots whether vacant or built up; f) the area to be occupied by the propo sed building and the set backs proposed for proper air and ventilation; g) the nature of the ground on which the proposed building is to be erected, whether natural like, rocky, gravelly, clayey, sandy etc., or made up ground. In the case of made up ground, the time when it was so made up and the materials used in making it up shall be indicated. In case of sloping ground where the gradient exceeds 5% (1:20) block levels have to be furnished in the site plan; h) any physical features such as wells, drains, transmission lines, etc.; i) natural features like existi ng trees, ridges, valleys etc., j) block levels in cases where basement/cellar floors are proposed below ground level; k) such other particulars, as may be specified by the Authority. 3.2.(5.3) Building plan – Building plan drawn to a scale of not more than 1:100 showing the following particula
+----------------------------------------------------------------------
+
+==========================================================================================
+QUERY 20: Find the relevant clauses for checking a proposed building plan.
+==========================================================================================
+
+Rank: 1
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 16
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4167
+Text:
+Building Bye-Laws – 2003 16 4.1.2. While granting licence, the Authority shall impose a condition that atleast two trees shall be grown in the sites where the sital area ex ceeds 200 sqm. in the interest of improving the environment of the area. 4.1.3. The Authority may require the owner, builder, or any other person responsible for construction of a building to erect and maintain during construction such barricading as considered necessary to prevent dust, debris and other materials endangering the safety of people/structures, etc., in and around the site. 4.1.4. Revised plans – (i) Where plans have been scrutinised and modifications or objections have been pointed out by the Authority, the applicant shall modify the plans to comply with the modifications or objections raised and resubmit the plans. The plans submitted for approval shall not contain superimposed corrections. (ii) A plan once sanctioned may be revised or modified by the Authority on payment of additional fee for scruti
+----------------------------------------------------------------------
+
+Rank: 2
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 73
+Chunk: 0
+Clause: None
+Cosine Distance: 0.4345
+Text:
+Building Bye-Laws – 2003 73 SCHEDULE – IX (Bye-law 5.6.1) FORM OF OCCUPANCY CERTIFICATE A plan was sanctioned for construction of …………………………. apartment building consisting of …………………………………………………. at ………………………………………………………………………… Vide LP No…………………………. /…………. Dt: - ……………….. On receipt of the intimation of the completion of the building from the Registered Architect /Engineer / Supervisor, the building was inspected by the …………………………………….and it was found that the applicant has built the build ing according to the sanctioned plan/effected certain changes from the sanctioned plan. These changes were regularized by the Commissioner in his note dated ……………………… as recommended by the …………………………………….. by levying a penalty of Rs……………….…………….. after ensuring that the deviations are within the permissible limit of 5% from the sanctioned plan. The applicant has paid a sum of Rs………(Rupees……………………………) vide challan no ………dated…………….. towards the compounding fine. Hence, the deviations affected by the ap
+----------------------------------------------------------------------
+
+Rank: 3
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 10
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4364
+Text:
+as may be specified by the Authority. 3.2.(5.3) Building plan – Building plan drawn to a scale of not more than 1:100 showing the following particulars, namely a) floor plans of all floors indicating north line and the various parts of the building, sizes of rooms, position of stair-cases and lifts, machine rooms, ramps etc., in detail along with street elevation;. b) use or occupancy of all parts of the building; c) exact location of essential services viz., water closets, baths, sinks, etc; d) sectional drawing showing sizes of footi ng, thickness of walls, spacing of columns, thickness of roof slab, height of room s, height of parapet, drainage and slope of the terrace roof details of staircase showin g tread, rise and landing width, railing, etc; e) details of ventilation of all rooms; f) open spaces or yards inside or surrounding the buildings; g) sewerage arrangements; h) the schedule of all doors, windows, and ventilators showing sizes and numbers; i) dimensions of projected po
+----------------------------------------------------------------------
+
+Rank: 4
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 64
+Chunk: 2
+Clause: None
+Cosine Distance: 0.4395
+Text:
+engineer will be entitled to submit: i) All plans and related information with necessary certificat es connected with building licence. ii) Structural details and calculations of buildings on plots upto 500 sq.m. and upto 4 storeys or 14 metre in height. iii) Service plans for all buildings.
+----------------------------------------------------------------------
+
+Rank: 5
+Source: bbmp_bylaws_2003.pdf
+PDF Page: 9
+Chunk: 1
+Clause: None
+Cosine Distance: 0.4543
+Text:
+certificate of the property, issued a competent authority. 3.2.(2) Property card and latest assessment book extract – A copy of the property card along with the sketch issued by the De partment of Survey and Settlement, and Land Records (City Survey) and latest assessment book extract issued by the Corporation indicating the measurements of the property . 3.2.(3) Upto date tax paid receipt – The receipt for having paid up to date property tax to the Corporation shall be enclosed. 3.2.(4) Previously sanctioned plan - Attested copy of the previously sanctioned plan if the application is for addition/ alteration/modification to the existing building. If the applicant for any reason cannot produce the previously sanctioned plan of the existing building, then in such cases the plan of the existing building along with site plan, etc., will have to be submitted. 3.2.(5) Drawings – The following drawings in ammonia prints. One drawing on tracing cloth / polyester tracing film shall be enclose
+----------------------------------------------------------------------
