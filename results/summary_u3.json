@@ -1,0 +1,18 @@
+{
+  "users": 3,
+  "completed_runs": 128,
+  "failed_runs": 0,
+  "rate_limited": false,
+  "e2e_p50_ms": 1913.2,
+  "e2e_p95_ms": 1977.0,
+  "e2e_p99_ms": 1994.7,
+  "e2e_max_ms": 2006.0,
+  "e2e_avg_ms": 1828.0,
+  "runs_per_second": 1.642,
+  "http_requests_per_second": 15.72,
+  "slo_p95_ms": 3500.0,
+  "slo_met": true,
+  "warmup_s": 10.0,
+  "poll_interval_s": 0.25,
+  "first_failures": []
+}
